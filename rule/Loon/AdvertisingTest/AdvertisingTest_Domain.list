@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-21 02:11:50
+# UPDATED: 2025-03-23 02:10:34
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 13038
 # DOMAIN-KEYWORD: 262
-# DOMAIN-SUFFIX: 183553
+# DOMAIN-SUFFIX: 183599
 # IP-CIDR: 479
 # IP-CIDR6: 1
 # URL-REGEX: 12
-# TOTAL: 197345
+# TOTAL: 197391
 .0.101tubeporn.com
 .0.clicks4me.fwh.is
 .0.code.cotsta.ru
@@ -4511,6 +4511,7 @@
 .805.red
 .8051.5clo0xmbf.com
 .80538w2f.cn
+.80582834.xyz
 .805zx.cn
 .806.tianya.cn
 .806.tianyaui.cn
@@ -15165,6 +15166,7 @@
 .ainhiseewhat.com
 .ainingukmo.xyz
 .aino2.com
+.ainouzaudre.net
 .ainsyndication.com
 .aintydevelelastic.com
 .ainu.intel.cn
@@ -15450,6 +15452,7 @@
 .ajoosheg.com
 .ajoqu.cn
 .ajouny.com
+.ajoxxit.top
 .ajozrjh.com
 .ajplugins.com
 .ajpxs.xyz
@@ -15489,6 +15492,7 @@
 .ak.maneasiestways.com
 .ak.youbetterhealthy.com
 .ak03150hou.com
+.ak03211hou.com
 .ak0gsh40.com
 .ak9.6895588.com
 .aka.ms-ads.co
@@ -16977,6 +16981,7 @@
 .android.txtsmarter.com
 .androiddev.orkitra.com
 .androiddownload.net
+.androidfilehost.cfd
 .androidlog.shouji.baofeng.com
 .androidquery.appspot.com
 .androidtvchannels-pa.googleapis.com
@@ -21636,6 +21641,7 @@
 .avjbjbeeramzv.top
 .avjbjbekaazzw.top
 .avjockjpiduc.com
+.avkd.cn
 .avkktuywj.xyz
 .avkw.cn
 .avkyu1tesnwy.com
@@ -24650,6 +24656,7 @@
 .bekannt-im-web.de
 .bekcd.xyz
 .bekco.xyz
+.bekd.cn
 .beklefkiom.com
 .beklinkor.com
 .bekmhvbb.xyz
@@ -27135,6 +27142,7 @@
 .bonnesporgy.top
 .bonnetgoblet.com
 .bonnetiere-infrangible-burthening.xyz
+.bonnetsgunks.shop
 .bonnettaking.com
 .bonnieradnetwork.se
 .bonnnesfoxily.com
@@ -27582,6 +27590,7 @@
 .bpsemea.hilton.com
 .bpsxld.meutudo.com.br
 .bpt.webedia-group.com
+.bptnzp.top
 .bpts.8111216.cn
 .bptssoahsfoz.com
 .bpu.samsungelectronics.com
@@ -32556,6 +32565,7 @@
 .chaussew.net
 .chautcho.com
 .chauwout.xyz
+.chauxuzauy.com
 .chavoads.com
 .chavosh.org
 .chawedsonrai.top
@@ -32959,6 +32969,7 @@
 .chiuhua.com.cn
 .chivalrouscord.com
 .chivoagrie.net
+.chivwtusseh.com
 .chiwaiwhor.xyz
 .chiyan.group
 .chjxzk.1555110.cn
@@ -33377,6 +33388,7 @@
 .circusinjunctionarrangement.com
 .circusmediocre.com
 .ciridola.com
+.cirliwrigwu.com
 .cirmudcap.com
 .cirrateremord.com
 .cirsoaksat.net
@@ -34325,6 +34337,7 @@
 .client-telemetry.roblox.com
 .client.88tours.com
 .client.botchk.net
+.client.contents-search-windows.com
 .client.crisp.chat
 .client.fastaff.com
 .client.midosoo.com
@@ -38575,7 +38588,6 @@
 .creatives.inmotionhosting.com
 .creatives.pichunter.com
 .creatives.summitconnect.co.uk
-.creatives.wetransfer.net
 .creatives.x2lt.com
 .creatives1.ftimg.net
 .creativesumo.com
@@ -49893,6 +49905,7 @@
 .doumuleet.net
 .dounwil.ru
 .douoblelimpup.com
+.douploadfiles.click
 .doupseejog.com
 .doupsout.xyz
 .doupteethaiz.xyz
@@ -53719,6 +53732,7 @@
 .elbowrevolutionary.com
 .elbowsmouldoral.com
 .elcfdhbxyb.com
+.eldaridpr.com
 .eldedtickered.site
 .elderlybean.com
 .elderlyinsect.com
@@ -58965,6 +58979,7 @@
 .feelsoftgood.info
 .feeltrail.com
 .feeohmchi.com
+.feernhuhe.com
 .feesee.com
 .feeseeho.com
 .feeshoul.xyz
@@ -59857,6 +59872,7 @@
 .findandtry.com
 .findanonymous.com
 .findbetterresults.com
+.findcommerce.com
 .findcouponspromos.com
 .finder.cox.net
 .finder2024.com
@@ -63174,6 +63190,7 @@
 .gagebonus.com
 .gagelivius.com
 .gagepicaras.com
+.gaggedtetrode.com
 .gagheroinintact.com
 .gaghygienetheir.com
 .gagkf.top
@@ -64103,6 +64120,7 @@
 .gemtrackers.com
 .gemtun.ctnewsjunkie.com
 .gemtvo.teflcourse.net
+.gemworkbakairi.com
 .gen-ref.com
 .gen.alicdn.com
 .gen.etherscan.io
@@ -64584,6 +64602,7 @@
 .getdev.payso.ca
 .getdeviceinf.com
 .getdispadsshop.com
+.getdownloadfree.cfd
 .getdrip.com
 .getelem.ru
 .getels.com
@@ -67526,6 +67545,7 @@
 .goufanli100.com
 .goufldsbktds.com
 .gougersorrier.top
+.gougligloupha.net
 .gouheethsurvey.space
 .gouhei.top
 .goulanmeng.cn
@@ -69239,6 +69259,7 @@
 .guchihyfa.pro
 .guckoash.net
 .gucucmaikaups.com
+.gucx.cn
 .gudangbanner.com
 .guddledarride.com
 .guddledberith.com
@@ -74981,6 +75002,7 @@
 .icsamghkxdv.com
 .icsoqxwevywn.com
 .icstats.nl
+.icswdocmv.on-ke.tech
 .ictowaz.ru
 .ictrjw.barcastores.com
 .icu.getstorybox.com
@@ -90335,6 +90357,7 @@
 .liosix.mtvuutiset.fi
 .liosix.studio55.fi
 .lioyfmp.cn
+.lipasesartal.com
 .lipheak.com
 .lipidicchaoush.com
 .lipmswonv.com
@@ -94458,6 +94481,7 @@
 .lvsnmgg.com
 .lvsyaa.souqstore.com.br
 .lvtag.com
+.lvtuucmyfpz.com
 .lvw7k4d3j.com
 .lvwdrsrerso.com
 .lvwuuehkvitwn.com
@@ -98856,6 +98880,7 @@
 .mc.weather.com.cn
 .mc.webvisor.org
 .mc.yandex.com
+.mc.yandex.md
 .mc.yandex.ru
 .mc3369.xyz
 .mc7clurd09pla4nrtat7ion.com
@@ -102774,6 +102799,7 @@
 .milotree.com
 .milparota.com
 .milrauki.com
+.milseycurly.com
 .milteept.xyz
 .miltlametta.com
 .miludata.com
@@ -106137,6 +106163,7 @@
 .myashot.txxx.com
 .myatpe.mebelaero.ru
 .myaudioads.com
+.mybancoschiles.gets-it.net
 .mybasilsoup.com
 .mybdrttnqbrh.com
 .mybest.app
@@ -107564,6 +107591,7 @@
 .nefdcnmvbt.com
 .nefing.com
 .nefrpt.top
+.nefrvjfkzus.com
 .neg.hk
 .neg2zos.icu
 .negatesupervisor.com
@@ -107615,6 +107643,7 @@
 .nekomasu.ltd
 .nektonsrutate.com
 .neldatsy.com
+.neldipbtg.com
 .nelhon.com
 .nelioabtesting.com
 .nellads.com
@@ -109910,6 +109939,7 @@
 .nqmoyjyjngc.com
 .nqn7la7.de
 .nqnggnsc.fun
+.nqowmugodougu.com
 .nqoxrsrf.com
 .nqoxurf.icu
 .nqozgp.botland.com.pl
@@ -111752,6 +111782,7 @@
 .og-affiliate.com
 .ogads-pa.googleapis.com
 .ogaewcqgj.com
+.ogaku.site
 .ogb2.biopur-leanature.fr
 .ogb2.biovie.com
 .ogb2.eauthermalejonzac.com
@@ -118430,6 +118461,7 @@
 .piano.io
 .pianoalter.xyz
 .pianoassort.com
+.pianolamickeys.com
 .pianolaweeshee.top
 .pianolessons.fr
 .pianwela.xyz
@@ -120315,6 +120347,7 @@
 .ponieqldeos.com
 .ponierpeewees.digital
 .ponk.pro
+.ponos.zeronaught.com
 .ponosenvy.top
 .pontent.powzers.lol
 .pontiflex.com
@@ -126102,6 +126135,7 @@
 .r5dfwjtb.icu
 .r5h6.icu
 .r5jpkacq.ru
+.r5twojylmzsym.top
 .r6.galya.ru
 .r6.ritikajoshi.com
 .r6.romeflirt.com
@@ -129890,6 +129924,7 @@
 .robescampus.com
 .robflea.com
 .robindefensivedancing.com
+.robitoaceeb.net
 .robjamguy.club
 .robloxviet.vn
 .robotflowermobile.com
@@ -135764,6 +135799,7 @@
 .settle1266.fun
 .settledapproximatesuit.com
 .settledchagrinpass.com
+.settlementlaying.com
 .settlenice.com
 .settleshoes.com
 .settrogens.com
@@ -149496,6 +149532,7 @@
 .steltilr.xyz
 .stem.cellmedicine.com
 .stemboastfulrattle.com
+.stemedntm.com
 .stemmedgerres.click
 .stemonauppoint.top
 .stemredeem.com
@@ -149762,6 +149799,7 @@
 .stongoapti.net
 .stongors.com
 .stonierteddy.com
+.stonifylolls.com
 .stonkphymata.com
 .stonkstime.com
 .stonseeb.net
@@ -153388,6 +153426,7 @@
 .tags.propertyfinder.eg
 .tags.propertyfinder.qa
 .tags.propertyfinder.sa
+.tags.pw.adn.cloud
 .tags.rabobank.nl
 .tags.radiofarda.com
 .tags.radiomarsho.com
@@ -160203,7 +160242,6 @@
 .track.fosterbucks.com
 .track.francemonde.pro
 .track.freefromfungus.net
-.track.freemmo2017.com
 .track.freesmartphonenow.co
 .track.ft.com
 .track.ftnft.com
@@ -160216,7 +160254,6 @@
 .track.futebolesportesjack.online
 .track.futureshop.ca
 .track.fxstreet.com
-.track.game18click.com
 .track.gamefinitysa.com
 .track.gamekingdomae.com
 .track.gamestationqa.com
@@ -164806,6 +164843,7 @@
 .uhi02121uik.xyz
 .uhi02130uik.xyz
 .uhijmv.cn
+.uhityllhn.com
 .uhjrjhgthc.com
 .uhjxitn.xyz
 .uhlagm.rakurakuseisan.jp
@@ -168532,6 +168570,7 @@
 .vhhxnb.xyz
 .vhihvqsuarpp.com
 .vhinyvcsxcga.com
+.vhje.cn
 .vhjhmsvosxius.click
 .vhjxrj.xyz
 .vhkbvpbuhwon.com
@@ -170904,6 +170943,7 @@
 .vvadz.cc
 .vvbox.cz
 .vvcashpop.com
+.vvdrhe.win
 .vvdzucs.cn
 .vvehvch.com
 .vvelrp.thinkshoes.com
@@ -171347,6 +171387,7 @@
 .waatch.standaard.be
 .waati.quechoisir.org
 .waawuu.highfashionhome.com
+.waaz.wjebboljobvaj.top
 .waazgwojnfqx.life
 .wabbledrutter.top
 .wabblydungari.click
@@ -174824,6 +174865,7 @@
 .woomio.com
 .woomy.me
 .woopeekip.com
+.woopojaizeeno.com
 .woopra-ns.com
 .woopra.com
 .woopteem.net
@@ -177193,6 +177235,7 @@
 .xdsahkln.xyz
 .xdsblm.ullapopken.de
 .xdserv.com
+.xdsgbkfkm.com
 .xdsp.snadx.com
 .xdttxdqe.xyz
 .xdunv.com
@@ -180533,6 +180576,7 @@
 .yosity.com
 .yosle.info
 .yotlzh.akane-skincare.com
+.yotrack.cdn.ybn.io
 .yotta.scrolller.com
 .yottacash.com
 .yottlyscript.com
@@ -181327,6 +181371,7 @@
 .yxpoprve.com
 .yxptcrss.xyz
 .yxqfkm.24mx.de
+.yxqmryq.top
 .yxrmbjw.icu
 .yxrxsov.xyz
 .yxsdgi.bedworld.net
@@ -182604,6 +182649,7 @@
 .zkfborg.cn
 .zkfojr.xyz
 .zkgbkn.pinkwoman-fashion.com
+.zkika.okyla.de
 .zkkkvb.welovebags.de
 .zkmhhr1fr79z.dictionary.basabali.org
 .zknrhv.sebago.com

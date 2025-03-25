@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-22 02:12:45
+# UPDATED: 2025-03-25 02:13:26
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31136
+# DOMAIN-SUFFIX: 31129
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31386
+# TOTAL: 31379
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -309,7 +309,6 @@ payload:
   - '+.2kgames.com'
   - '+.2lib.org'
   - '+.2mdn-cn.net'
-  - '+.2mdn.net'
   - '+.30plusgirls.com'
   - '+.35s4.com'
   - '+.360autodesk.com'
@@ -2127,7 +2126,6 @@ payload:
   - '+.askubuntu.com'
   - '+.asmhentai.com'
   - '+.asminternational.org'
-  - '+.asmr.gay'
   - '+.asmrbuluo.com'
   - '+.asn-online.org'
   - '+.asp-cc.com'
@@ -2567,7 +2565,6 @@ payload:
   - '+.b-ok.global'
   - '+.b-ok.org'
   - '+.b3boos.com'
-  - '+.b3bos.com'
   - '+.b6b33.com'
   - '+.b6fc.ac.uk'
   - '+.baa.ac.uk'
@@ -4422,7 +4419,6 @@ payload:
   - '+.builtfromebay.com'
   - '+.bukkake-jav.com'
   - '+.bukkake.link'
-  - '+.bululusexdoll.com'
   - '+.bumpshare.com'
   - '+.bumptop.ca'
   - '+.bumptop.com'
@@ -5935,7 +5931,6 @@ payload:
   - '+.cts.ac.uk'
   - '+.cttoolkit.ac.uk'
   - '+.ctv.com.tw'
-  - '+.ctyun.online'
   - '+.cubo.ac.uk'
   - '+.cuc.ac.uk'
   - '+.cuckfilmswifefuck.com'
@@ -8518,7 +8513,6 @@ payload:
   - '+.fgirl.ch'
   - '+.fgls.ac.uk'
   - '+.fgmtv.org'
-  - '+.fi11.com'
   - '+.fi11av1.com'
   - '+.fi11tv1.com'
   - '+.fibre-diffraction.ac.uk'
@@ -9374,7 +9368,6 @@ payload:
   - '+.gem.ac.uk'
   - '+.gemfire.net'
   - '+.gemfury.com'
-  - '+.gemini.com'
   - '+.gen.lib.rus.ec'
   - '+.gen2.ac.uk'
   - '+.gendai.net'
@@ -9629,7 +9622,6 @@ payload:
   - '+.gmhigher.ac.uk'
   - '+.gmims.ac.uk'
   - '+.gmms.ac.uk'
-  - '+.gmnetworks.net'
   - '+.gmoney.org'
   - '+.gmsa.ac.uk'
   - '+.gnai-dh.sbs'
@@ -20118,7 +20110,6 @@ payload:
   - '+.sneaker666.com'
   - '+.sneakerpage.net'
   - '+.sneakerskick.com'
-  - '+.snjulebu.com'
   - '+.snk-corp.co.jp'
   - '+.snkplaymore.info'
   - '+.snow.me'
@@ -22369,7 +22360,6 @@ payload:
   - '+.usvimosquitoproject.com'
   - '+.usw.ac.uk'
   - '+.utcreading.ac.uk'
-  - '+.uug22.com'
   - '+.uug23.com'
   - '+.uug25.com'
   - '+.uug26.com'
@@ -23250,7 +23240,6 @@ payload:
   - '+.vxxsred.xyz'
   - '+.w-mt.co'
   - '+.w.wiki'
-  - '+.w0512.com'
   - '+.w6un.com'
   - '+.wa.me'
   - '+.waa.tw'
@@ -25064,6 +25053,7 @@ payload:
   - '+.24smile.org'
   - '+.25u.com'
   - '+.2lipstube.com'
+  - '+.2mdn.net'
   - '+.2shared.com'
   - '+.2waky.com'
   - '+.3-a.net'
@@ -26099,6 +26089,7 @@ payload:
   - '+.coin2co.in'
   - '+.coinbase.com'
   - '+.coinbene.com'
+  - '+.coincarp.com'
   - '+.coinegg.com'
   - '+.coinex.com'
   - '+.coingecko.com'
@@ -26698,6 +26689,7 @@ payload:
   - '+.fandom.com'
   - '+.fangbinxing.com'
   - '+.fangeming.com'
+  - '+.fangeming.comffvpn.com'
   - '+.fangeqiang.com'
   - '+.fanglizhi.info'
   - '+.fangmincn.org'
@@ -27027,6 +27019,7 @@ payload:
   - '+.geekheart.info'
   - '+.gekikame.com'
   - '+.gelbooru.com'
+  - '+.gemini.com'
   - '+.generated.photos'
   - '+.geni.us'
   - '+.genius.com'

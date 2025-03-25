@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-22 02:12:45
+# UPDATED: 2025-03-25 02:13:26
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31136
+# DOMAIN-SUFFIX: 31129
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31386
+# TOTAL: 31379
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -308,7 +308,6 @@ DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,2kgames.com
 DOMAIN-SUFFIX,2lib.org
 DOMAIN-SUFFIX,2mdn-cn.net
-DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,30plusgirls.com
 DOMAIN-SUFFIX,35s4.com
 DOMAIN-SUFFIX,360autodesk.com
@@ -2126,7 +2125,6 @@ DOMAIN-SUFFIX,asknudes.com
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,asmhentai.com
 DOMAIN-SUFFIX,asminternational.org
-DOMAIN-SUFFIX,asmr.gay
 DOMAIN-SUFFIX,asmrbuluo.com
 DOMAIN-SUFFIX,asn-online.org
 DOMAIN-SUFFIX,asp-cc.com
@@ -2566,7 +2564,6 @@ DOMAIN-SUFFIX,b-ok.asia
 DOMAIN-SUFFIX,b-ok.global
 DOMAIN-SUFFIX,b-ok.org
 DOMAIN-SUFFIX,b3boos.com
-DOMAIN-SUFFIX,b3bos.com
 DOMAIN-SUFFIX,b6b33.com
 DOMAIN-SUFFIX,b6fc.ac.uk
 DOMAIN-SUFFIX,baa.ac.uk
@@ -4421,7 +4418,6 @@ DOMAIN-SUFFIX,builtenvsigns.ac.uk
 DOMAIN-SUFFIX,builtfromebay.com
 DOMAIN-SUFFIX,bukkake-jav.com
 DOMAIN-SUFFIX,bukkake.link
-DOMAIN-SUFFIX,bululusexdoll.com
 DOMAIN-SUFFIX,bumpshare.com
 DOMAIN-SUFFIX,bumptop.ca
 DOMAIN-SUFFIX,bumptop.com
@@ -5934,7 +5930,6 @@ DOMAIN-SUFFIX,ctr-math-phys.ac.uk
 DOMAIN-SUFFIX,cts.ac.uk
 DOMAIN-SUFFIX,cttoolkit.ac.uk
 DOMAIN-SUFFIX,ctv.com.tw
-DOMAIN-SUFFIX,ctyun.online
 DOMAIN-SUFFIX,cubo.ac.uk
 DOMAIN-SUFFIX,cuc.ac.uk
 DOMAIN-SUFFIX,cuckfilmswifefuck.com
@@ -8517,7 +8512,6 @@ DOMAIN-SUFFIX,fgacebook.com
 DOMAIN-SUFFIX,fgirl.ch
 DOMAIN-SUFFIX,fgls.ac.uk
 DOMAIN-SUFFIX,fgmtv.org
-DOMAIN-SUFFIX,fi11.com
 DOMAIN-SUFFIX,fi11av1.com
 DOMAIN-SUFFIX,fi11tv1.com
 DOMAIN-SUFFIX,fibre-diffraction.ac.uk
@@ -9373,7 +9367,6 @@ DOMAIN-SUFFIX,gelbooru.wjcodes.com
 DOMAIN-SUFFIX,gem.ac.uk
 DOMAIN-SUFFIX,gemfire.net
 DOMAIN-SUFFIX,gemfury.com
-DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,gen.lib.rus.ec
 DOMAIN-SUFFIX,gen2.ac.uk
 DOMAIN-SUFFIX,gendai.net
@@ -9628,7 +9621,6 @@ DOMAIN-SUFFIX,gmcyberfoundry.ac.uk
 DOMAIN-SUFFIX,gmhigher.ac.uk
 DOMAIN-SUFFIX,gmims.ac.uk
 DOMAIN-SUFFIX,gmms.ac.uk
-DOMAIN-SUFFIX,gmnetworks.net
 DOMAIN-SUFFIX,gmoney.org
 DOMAIN-SUFFIX,gmsa.ac.uk
 DOMAIN-SUFFIX,gnai-dh.sbs
@@ -20117,7 +20109,6 @@ DOMAIN-SUFFIX,snc.ac.uk
 DOMAIN-SUFFIX,sneaker666.com
 DOMAIN-SUFFIX,sneakerpage.net
 DOMAIN-SUFFIX,sneakerskick.com
-DOMAIN-SUFFIX,snjulebu.com
 DOMAIN-SUFFIX,snk-corp.co.jp
 DOMAIN-SUFFIX,snkplaymore.info
 DOMAIN-SUFFIX,snow.me
@@ -22368,7 +22359,6 @@ DOMAIN-SUFFIX,usvimosquito.com
 DOMAIN-SUFFIX,usvimosquitoproject.com
 DOMAIN-SUFFIX,usw.ac.uk
 DOMAIN-SUFFIX,utcreading.ac.uk
-DOMAIN-SUFFIX,uug22.com
 DOMAIN-SUFFIX,uug23.com
 DOMAIN-SUFFIX,uug25.com
 DOMAIN-SUFFIX,uug26.com
@@ -23249,7 +23239,6 @@ DOMAIN-SUFFIX,vxnbbrs.xyz
 DOMAIN-SUFFIX,vxxsred.xyz
 DOMAIN-SUFFIX,w-mt.co
 DOMAIN-SUFFIX,w.wiki
-DOMAIN-SUFFIX,w0512.com
 DOMAIN-SUFFIX,w6un.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,waa.tw
@@ -25063,6 +25052,7 @@ DOMAIN-SUFFIX,24hrs.ca
 DOMAIN-SUFFIX,24smile.org
 DOMAIN-SUFFIX,25u.com
 DOMAIN-SUFFIX,2lipstube.com
+DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2shared.com
 DOMAIN-SUFFIX,2waky.com
 DOMAIN-SUFFIX,3-a.net
@@ -26098,6 +26088,7 @@ DOMAIN-SUFFIX,cofacts.tw
 DOMAIN-SUFFIX,coin2co.in
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbene.com
+DOMAIN-SUFFIX,coincarp.com
 DOMAIN-SUFFIX,coinegg.com
 DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,coingecko.com
@@ -26697,6 +26688,7 @@ DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,fandom.com
 DOMAIN-SUFFIX,fangbinxing.com
 DOMAIN-SUFFIX,fangeming.com
+DOMAIN-SUFFIX,fangeming.comffvpn.com
 DOMAIN-SUFFIX,fangeqiang.com
 DOMAIN-SUFFIX,fanglizhi.info
 DOMAIN-SUFFIX,fangmincn.org
@@ -27026,6 +27018,7 @@ DOMAIN-SUFFIX,geekerhome.com
 DOMAIN-SUFFIX,geekheart.info
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,genius.com

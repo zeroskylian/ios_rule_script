@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-22 02:12:45
+# UPDATED: 2025-03-25 02:13:26
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31136
+# DOMAIN-SUFFIX: 31129
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31386
+# TOTAL: 31379
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -308,7 +308,6 @@ self.events.data.microsoft.com
 +.2kgames.com
 +.2lib.org
 +.2mdn-cn.net
-+.2mdn.net
 +.30plusgirls.com
 +.35s4.com
 +.360autodesk.com
@@ -2126,7 +2125,6 @@ self.events.data.microsoft.com
 +.askubuntu.com
 +.asmhentai.com
 +.asminternational.org
-+.asmr.gay
 +.asmrbuluo.com
 +.asn-online.org
 +.asp-cc.com
@@ -2566,7 +2564,6 @@ self.events.data.microsoft.com
 +.b-ok.global
 +.b-ok.org
 +.b3boos.com
-+.b3bos.com
 +.b6b33.com
 +.b6fc.ac.uk
 +.baa.ac.uk
@@ -4421,7 +4418,6 @@ self.events.data.microsoft.com
 +.builtfromebay.com
 +.bukkake-jav.com
 +.bukkake.link
-+.bululusexdoll.com
 +.bumpshare.com
 +.bumptop.ca
 +.bumptop.com
@@ -5934,7 +5930,6 @@ self.events.data.microsoft.com
 +.cts.ac.uk
 +.cttoolkit.ac.uk
 +.ctv.com.tw
-+.ctyun.online
 +.cubo.ac.uk
 +.cuc.ac.uk
 +.cuckfilmswifefuck.com
@@ -8517,7 +8512,6 @@ self.events.data.microsoft.com
 +.fgirl.ch
 +.fgls.ac.uk
 +.fgmtv.org
-+.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
 +.fibre-diffraction.ac.uk
@@ -9373,7 +9367,6 @@ self.events.data.microsoft.com
 +.gem.ac.uk
 +.gemfire.net
 +.gemfury.com
-+.gemini.com
 +.gen.lib.rus.ec
 +.gen2.ac.uk
 +.gendai.net
@@ -9628,7 +9621,6 @@ self.events.data.microsoft.com
 +.gmhigher.ac.uk
 +.gmims.ac.uk
 +.gmms.ac.uk
-+.gmnetworks.net
 +.gmoney.org
 +.gmsa.ac.uk
 +.gnai-dh.sbs
@@ -20117,7 +20109,6 @@ self.events.data.microsoft.com
 +.sneaker666.com
 +.sneakerpage.net
 +.sneakerskick.com
-+.snjulebu.com
 +.snk-corp.co.jp
 +.snkplaymore.info
 +.snow.me
@@ -22368,7 +22359,6 @@ self.events.data.microsoft.com
 +.usvimosquitoproject.com
 +.usw.ac.uk
 +.utcreading.ac.uk
-+.uug22.com
 +.uug23.com
 +.uug25.com
 +.uug26.com
@@ -23249,7 +23239,6 @@ self.events.data.microsoft.com
 +.vxxsred.xyz
 +.w-mt.co
 +.w.wiki
-+.w0512.com
 +.w6un.com
 +.wa.me
 +.waa.tw
@@ -25063,6 +25052,7 @@ self.events.data.microsoft.com
 +.24smile.org
 +.25u.com
 +.2lipstube.com
++.2mdn.net
 +.2shared.com
 +.2waky.com
 +.3-a.net
@@ -26098,6 +26088,7 @@ self.events.data.microsoft.com
 +.coin2co.in
 +.coinbase.com
 +.coinbene.com
++.coincarp.com
 +.coinegg.com
 +.coinex.com
 +.coingecko.com
@@ -26697,6 +26688,7 @@ self.events.data.microsoft.com
 +.fandom.com
 +.fangbinxing.com
 +.fangeming.com
++.fangeming.comffvpn.com
 +.fangeqiang.com
 +.fanglizhi.info
 +.fangmincn.org
@@ -27026,6 +27018,7 @@ self.events.data.microsoft.com
 +.geekheart.info
 +.gekikame.com
 +.gelbooru.com
++.gemini.com
 +.generated.photos
 +.geni.us
 +.genius.com

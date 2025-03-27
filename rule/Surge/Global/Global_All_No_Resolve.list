@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-25 02:13:25
+# UPDATED: 2025-03-27 02:13:39
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31129
+# DOMAIN-SUFFIX: 31130
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31425
+# TOTAL: 31426
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -309,6 +309,7 @@ DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,2kgames.com
 DOMAIN-SUFFIX,2lib.org
 DOMAIN-SUFFIX,2mdn-cn.net
+DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,30plusgirls.com
 DOMAIN-SUFFIX,35s4.com
 DOMAIN-SUFFIX,360autodesk.com
@@ -1631,6 +1632,7 @@ DOMAIN-SUFFIX,apollocrewe.ac.uk
 DOMAIN-SUFFIX,apornotube.net
 DOMAIN-SUFFIX,aporntv.com
 DOMAIN-SUFFIX,apornvideo.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-dynamics.com
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-store.wang
@@ -25053,7 +25055,6 @@ DOMAIN-SUFFIX,24hrs.ca
 DOMAIN-SUFFIX,24smile.org
 DOMAIN-SUFFIX,25u.com
 DOMAIN-SUFFIX,2lipstube.com
-DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2shared.com
 DOMAIN-SUFFIX,2waky.com
 DOMAIN-SUFFIX,3-a.net

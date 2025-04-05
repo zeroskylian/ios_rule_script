@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-03 02:13:13
+# UPDATED: 2025-04-05 02:13:05
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31169
@@ -4390,6 +4390,7 @@ DOMAIN-SUFFIX,btrp-hyperpolarised.ac.uk
 DOMAIN-SUFFIX,btt804.com
 DOMAIN-SUFFIX,btt904.com
 DOMAIN-SUFFIX,bttzyw.com
+DOMAIN-SUFFIX,bttzyw.net
 DOMAIN-SUFFIX,btwrdn.com
 DOMAIN-SUFFIX,buba.ac.uk
 DOMAIN-SUFFIX,bubbaporn.com
@@ -24232,7 +24233,6 @@ DOMAIN-SUFFIX,xxbb9.com
 DOMAIN-SUFFIX,xxbook.cc
 DOMAIN-SUFFIX,xxbrits.com
 DOMAIN-SUFFIX,xxeronetxx.info
-DOMAIN-SUFFIX,xxfbiaa.xyz
 DOMAIN-SUFFIX,xxgasm.com
 DOMAIN-SUFFIX,xxindianporn.com
 DOMAIN-SUFFIX,xxiqiyiavxx.buzz

@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2025-05-15 02:18:19
+desc: 最后更新时间 2025-05-17 02:18:18
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1211
-# mitm: 893
+# reject: 1215
+# mitm: 892
 # force-http-engine-hosts: 6
-# total: 2110
+# total: 2113
 
 
 
@@ -420,6 +420,7 @@ http:
     - ^https?:\/\/app\.zhuanzhuan\.com\/zzopen\/popwindow\/getallpopwin\? - reject
     - ^https?:\/\/app\.zhuanzhuan\.com\/zzx\/transfer\/getConfigInfo$ - reject
     - ^https?:\/\/appactive\.1234567\.com\.cn\/AppoperationApi\/OperationService\/GetAppStartImg - reject
+    - ^https?:\/\/appapi\.51job(app)?\.com\/api\/util\/get_version - reject
     - ^https?:\/\/appapi\.51job\.com\/api\/market\/(adtrace|get_launch|get_prompt) - reject
     - ^https?:\/\/appapi\.huazhu\.com:\d{4}\/client\/app\/getAppStartPage\/ - reject
     - ^https?:\/\/appconf\.mail\.163\.com\/mmad\/ - reject
@@ -544,6 +545,10 @@ http:
     - ^https?:\/\/cstore-en-public-tx\.seewo\.com\/easinote5_public - reject
     - ^https?:\/\/ct\.xiaojukeji\.com\/agent\/v3\/feeds - reject
     - ^https?:\/\/cube\.elemecdn\.com\/[\w\/]+\.jpeg\?x-oss-process=image\/resize,m_fill,w_\d{3},h_\d{4}\/format,webp\/ - reject
+    - ^https?:\/\/cupid\.51job(app)?\.com\/launch-hub\/open\/noauth\/popUp - reject
+    - ^https?:\/\/cupid\.51job(app)?\.com\/open\/guide\/home-page-top - reject
+    - ^https?:\/\/cupid\.51job(app)?\.com\/open\/noauth\/index\/last-version - reject
+    - ^https?:\/\/cupid\.51job(app)?\.com\/open\/user-task\/user\/task\/init - reject
     - ^https?:\/\/cupid\.51job\.com\/open\/index\/recommend-infos - reject
     - ^https?:\/\/daijia\.kuaidadi\.com\/gateway\?api=prado\.cms\.delivery\.batch&apiVe - reject
     - ^https?:\/\/damang\.api\.mgtv\.com\/station\/album\/red\/dot\? - reject
@@ -953,7 +958,6 @@ http:
     - ^https?:\/\/portal-portm\.meituan\.com\/horn_ios\/mergeRequest - reject
     - ^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/ - reject
     - ^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/configs\/(splash_ad|ad_urls) - reject
-    - ^https?:\/\/portal\.zjzwfw\.gov\.cn\/app_api\/appHome\/selectStartPic - reject
     - ^https?:\/\/preprod\.cdzghome\.com:8100\/banner\/bootUp - reject
     - ^https?:\/\/prom\.mobile\.gome\.com\.cn\/mobile\/promotion\/promscms\/sale\w+\.jsp - reject
     - ^https?:\/\/promote-trx\.helipay\.com\/promote-business-client\/pos\/appAdvertisement\/appAdvertisementList - reject
@@ -1908,7 +1912,6 @@ http:
     - "plough.babytree.com"
     - "portal-portm.meituan.com"
     - "portal-xunyou.qingcdn.com"
-    - "portal.zjzwfw.gov.cn"
     - "preprod.cdzghome.com"
     - "prom.mobile.gome.com.cn"
     - "promote-trx.helipay.com"

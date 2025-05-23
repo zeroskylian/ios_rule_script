@@ -15,16 +15,16 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2025-05-20 02:16:17
+最后更新时间：2025-05-23 02:17:08
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 255  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 120368  | 
+| DOMAIN-SUFFIX | 119973  | 
 | PROCESS-NAME | 14  | 
-| TOTAL | 120650  | 
+| TOTAL | 120255  | 
 
 
 ## Clash 

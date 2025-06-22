@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-18 02:07:40
+# UPDATED: 2025-06-22 02:07:12
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31548
+# DOMAIN-SUFFIX: 31552
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31792
+# TOTAL: 31796
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -7100,7 +7100,6 @@ DOMAIN-SUFFIX,dvdstudiopro.org
 DOMAIN-SUFFIX,dvdstudiopro.us
 DOMAIN-SUFFIX,dvdtrailertube.com
 DOMAIN-SUFFIX,dvh30n.vip
-DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,dwg.com
 DOMAIN-SUFFIX,dwgtrueconvert.com
 DOMAIN-SUFFIX,dwgtrueview.com
@@ -8805,7 +8804,6 @@ DOMAIN-SUFFIX,foofle.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,footstockings.com
 DOMAIN-SUFFIX,footwear-cadcam.com
-DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,forbesimg.com
 DOMAIN-SUFFIX,forbiddenasian.com
 DOMAIN-SUFFIX,forbiddenmomsarchive.com
@@ -16056,7 +16054,6 @@ DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,nfscdict.com
 DOMAIN-SUFFIX,nfscofficial.com
 DOMAIN-SUFFIX,nfsworld.com
-DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ngc.ac.uk
 DOMAIN-SUFFIX,ngeo.com
 DOMAIN-SUFFIX,ngfiles.com
@@ -17570,6 +17567,7 @@ DOMAIN-SUFFIX,pi-vr.com
 DOMAIN-SUFFIX,piapp.com.tw
 DOMAIN-SUFFIX,piapro.net
 DOMAIN-SUFFIX,picacg2022.com
+DOMAIN-SUFFIX,picacgy.com
 DOMAIN-SUFFIX,picacn.xyz
 DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,picasa.com
@@ -25479,6 +25477,7 @@ DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,amtb-taipei.org
+DOMAIN-SUFFIX,amuletmc.com
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,anchorfree.com
@@ -26685,6 +26684,7 @@ DOMAIN-SUFFIX,dw-world.com
 DOMAIN-SUFFIX,dw-world.de
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,dw.de
+DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,dwheeler.com
 DOMAIN-SUFFIX,dwnews.com
 DOMAIN-SUFFIX,dwnews.net
@@ -27062,6 +27062,7 @@ DOMAIN-SUFFIX,fontsource.org
 DOMAIN-SUFFIX,foolsmountain.com
 DOMAIN-SUFFIX,fooooo.com
 DOMAIN-SUFFIX,footwiball.com
+DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,form.new
@@ -28950,6 +28951,7 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ng.mil
 DOMAIN-SUFFIX,nga.mil
 DOMAIN-SUFFIX,ngensis.com
@@ -30179,6 +30181,7 @@ DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,storj.io
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,stormmediagroup.com
+DOMAIN-SUFFIX,storry.tv
 DOMAIN-SUFFIX,stoweboyd.com
 DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,stranabg.com
@@ -31123,6 +31126,7 @@ DOMAIN-SUFFIX,w-pool.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,w.wiki
 DOMAIN-SUFFIX,w3.org
+DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,waffle1999.com
 DOMAIN-SUFFIX,wahas.com

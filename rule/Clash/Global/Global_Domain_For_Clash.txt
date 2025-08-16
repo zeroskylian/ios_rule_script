@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:07:46
+# UPDATED: 2025-08-16 02:07:53
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31567
+# DOMAIN-SUFFIX: 31571
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31830
+# TOTAL: 31834
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -3398,7 +3398,6 @@ login.microsoftonline.com
 +.binance.info
 +.binance.me
 +.binance.net
-+.binance.org
 +.binance.vision
 +.binanceapi.com
 +.binancecnt.com
@@ -11855,7 +11854,6 @@ login.microsoftonline.com
 +.infowarsmedia.com
 +.infrapedia.com
 +.infraworks.com
-+.infura.io
 +.ingads.com
 +.ingka.com
 +.ingka.dev
@@ -12391,7 +12389,6 @@ login.microsoftonline.com
 +.italiabeatsbydrdre.com
 +.itcanwait.com
 +.itcfonts.com
-+.itch.io
 +.itch.zone
 +.itchen.ac.uk
 +.iteach.ac.uk
@@ -25851,6 +25848,7 @@ login.microsoftonline.com
 +.bet365.com
 +.betaclouds.net
 +.betfair.com
++.betterhash.net
 +.betternet.co
 +.bettervpn.com
 +.bettween.com
@@ -25881,6 +25879,7 @@ login.microsoftonline.com
 +.biliworld.com
 +.billypan.com
 +.binance.com
++.binance.org
 +.binance.us
 +.binancezh.cc
 +.bing.com
@@ -27653,6 +27652,7 @@ login.microsoftonline.com
 +.heritage.org
 +.heroku.com
 +.herokuapp.com
++.herominers.com
 +.heungkongdiscuss.com
 +.hexieshe.com
 +.hexieshe.xyz
@@ -27994,6 +27994,7 @@ login.microsoftonline.com
 +.inf.news
 +.info-graf.fr
 +.informer.com
++.infura.io
 +.ingress.com
 +.inherit.live
 +.initiativesforchina.org
@@ -28083,6 +28084,7 @@ login.microsoftonline.com
 +.itaiwan.gov.tw
 +.italiatibet.org
 +.itasoftware.com
++.itch.io
 +.itemdb.com
 +.itemfix.com
 +.itgonglun.com
@@ -28507,6 +28509,7 @@ login.microsoftonline.com
 +.lsxszzg.com
 +.ltn.com.tw
 +.luckydesigner.space
++.luckymobile.ca
 +.ludepress.com
 +.luke54.com
 +.luke54.org
@@ -28658,6 +28661,7 @@ login.microsoftonline.com
 +.metacafe.com
 +.metacubex.one
 +.metafilter.com
++.metamask.io
 +.metart.com
 +.metarthunter.com
 +.meteorshowersonline.com

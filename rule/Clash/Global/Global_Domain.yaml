@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:07:46
+# UPDATED: 2025-08-16 02:07:53
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31567
+# DOMAIN-SUFFIX: 31571
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31830
+# TOTAL: 31834
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -3399,7 +3399,6 @@ payload:
   - '+.binance.info'
   - '+.binance.me'
   - '+.binance.net'
-  - '+.binance.org'
   - '+.binance.vision'
   - '+.binanceapi.com'
   - '+.binancecnt.com'
@@ -11856,7 +11855,6 @@ payload:
   - '+.infowarsmedia.com'
   - '+.infrapedia.com'
   - '+.infraworks.com'
-  - '+.infura.io'
   - '+.ingads.com'
   - '+.ingka.com'
   - '+.ingka.dev'
@@ -12392,7 +12390,6 @@ payload:
   - '+.italiabeatsbydrdre.com'
   - '+.itcanwait.com'
   - '+.itcfonts.com'
-  - '+.itch.io'
   - '+.itch.zone'
   - '+.itchen.ac.uk'
   - '+.iteach.ac.uk'
@@ -25852,6 +25849,7 @@ payload:
   - '+.bet365.com'
   - '+.betaclouds.net'
   - '+.betfair.com'
+  - '+.betterhash.net'
   - '+.betternet.co'
   - '+.bettervpn.com'
   - '+.bettween.com'
@@ -25882,6 +25880,7 @@ payload:
   - '+.biliworld.com'
   - '+.billypan.com'
   - '+.binance.com'
+  - '+.binance.org'
   - '+.binance.us'
   - '+.binancezh.cc'
   - '+.bing.com'
@@ -27654,6 +27653,7 @@ payload:
   - '+.heritage.org'
   - '+.heroku.com'
   - '+.herokuapp.com'
+  - '+.herominers.com'
   - '+.heungkongdiscuss.com'
   - '+.hexieshe.com'
   - '+.hexieshe.xyz'
@@ -27995,6 +27995,7 @@ payload:
   - '+.inf.news'
   - '+.info-graf.fr'
   - '+.informer.com'
+  - '+.infura.io'
   - '+.ingress.com'
   - '+.inherit.live'
   - '+.initiativesforchina.org'
@@ -28084,6 +28085,7 @@ payload:
   - '+.itaiwan.gov.tw'
   - '+.italiatibet.org'
   - '+.itasoftware.com'
+  - '+.itch.io'
   - '+.itemdb.com'
   - '+.itemfix.com'
   - '+.itgonglun.com'
@@ -28508,6 +28510,7 @@ payload:
   - '+.lsxszzg.com'
   - '+.ltn.com.tw'
   - '+.luckydesigner.space'
+  - '+.luckymobile.ca'
   - '+.ludepress.com'
   - '+.luke54.com'
   - '+.luke54.org'
@@ -28659,6 +28662,7 @@ payload:
   - '+.metacafe.com'
   - '+.metacubex.one'
   - '+.metafilter.com'
+  - '+.metamask.io'
   - '+.metart.com'
   - '+.metarthunter.com'
   - '+.meteorshowersonline.com'

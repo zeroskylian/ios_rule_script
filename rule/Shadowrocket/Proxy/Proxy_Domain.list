@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:08:06
+# UPDATED: 2025-08-16 02:08:13
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6475
+# DOMAIN-SUFFIX: 6482
 # IP-CIDR: 97
 # USER-AGENT: 8
-# TOTAL: 6615
+# TOTAL: 6622
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -594,6 +594,7 @@
 .bet365.com
 .betaclouds.net
 .betfair.com
+.betterhash.net
 .betternet.co
 .bettervpn.com
 .bettween.com
@@ -624,6 +625,7 @@
 .biliworld.com
 .billypan.com
 .binance.com
+.binance.org
 .binance.us
 .binancezh.cc
 .bing.com
@@ -2420,6 +2422,7 @@
 .heritage.org
 .heroku.com
 .herokuapp.com
+.herominers.com
 .heungkongdiscuss.com
 .hexieshe.com
 .hexieshe.xyz
@@ -2762,6 +2765,7 @@
 .inf.news
 .info-graf.fr
 .informer.com
+.infura.io
 .ingress.com
 .inherit.live
 .initiativesforchina.org
@@ -2853,6 +2857,7 @@
 .itaiwan.gov.tw
 .italiatibet.org
 .itasoftware.com
+.itch.io
 .itemdb.com
 .itemfix.com
 .itgonglun.com
@@ -3278,6 +3283,7 @@
 .lsxszzg.com
 .ltn.com.tw
 .luckydesigner.space
+.luckymobile.ca
 .ludepress.com
 .luke54.com
 .luke54.org
@@ -3431,6 +3437,7 @@
 .metacafe.com
 .metacubex.one
 .metafilter.com
+.metamask.io
 .metart.com
 .metarthunter.com
 .meteorshowersonline.com

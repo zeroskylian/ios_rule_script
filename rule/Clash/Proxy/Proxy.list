@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:08:06
+# UPDATED: 2025-08-16 02:08:13
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6475
+# DOMAIN-SUFFIX: 6482
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6607
+# TOTAL: 6614
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -603,6 +603,7 @@ DOMAIN-SUFFIX,bestvpnusa.com
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,betaclouds.net
 DOMAIN-SUFFIX,betfair.com
+DOMAIN-SUFFIX,betterhash.net
 DOMAIN-SUFFIX,betternet.co
 DOMAIN-SUFFIX,bettervpn.com
 DOMAIN-SUFFIX,bettween.com
@@ -633,6 +634,7 @@ DOMAIN-SUFFIX,bild.de
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,billypan.com
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binancezh.cc
 DOMAIN-SUFFIX,bing.com
@@ -2429,6 +2431,7 @@ DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,heritage.org
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,herominers.com
 DOMAIN-SUFFIX,heungkongdiscuss.com
 DOMAIN-SUFFIX,hexieshe.com
 DOMAIN-SUFFIX,hexieshe.xyz
@@ -2771,6 +2774,7 @@ DOMAIN-SUFFIX,indsr.org.tw
 DOMAIN-SUFFIX,inf.news
 DOMAIN-SUFFIX,info-graf.fr
 DOMAIN-SUFFIX,informer.com
+DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingress.com
 DOMAIN-SUFFIX,inherit.live
 DOMAIN-SUFFIX,initiativesforchina.org
@@ -2862,6 +2866,7 @@ DOMAIN-SUFFIX,itaboo.info
 DOMAIN-SUFFIX,itaiwan.gov.tw
 DOMAIN-SUFFIX,italiatibet.org
 DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itemdb.com
 DOMAIN-SUFFIX,itemfix.com
 DOMAIN-SUFFIX,itgonglun.com
@@ -3287,6 +3292,7 @@ DOMAIN-SUFFIX,lsmwebcast.com
 DOMAIN-SUFFIX,lsxszzg.com
 DOMAIN-SUFFIX,ltn.com.tw
 DOMAIN-SUFFIX,luckydesigner.space
+DOMAIN-SUFFIX,luckymobile.ca
 DOMAIN-SUFFIX,ludepress.com
 DOMAIN-SUFFIX,luke54.com
 DOMAIN-SUFFIX,luke54.org
@@ -3440,6 +3446,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
 DOMAIN-SUFFIX,meteorshowersonline.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-18 02:07:32
+# UPDATED: 2025-08-22 02:07:58
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31575
+# DOMAIN-SUFFIX: 31581
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31838
+# TOTAL: 31844
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -9566,6 +9566,7 @@ payload:
   - '+.ggoogle.com'
   - '+.ggpds.com'
   - '+.ggsrv.com'
+  - '+.gh.io'
   - '+.ghbi.ir'
   - '+.ghettotube.com'
   - '+.ghil.ac.uk'
@@ -12965,6 +12966,7 @@ payload:
   - '+.keepyourcad.com'
   - '+.keiba.net'
   - '+.keighleycollege.ac.uk'
+  - '+.kemono.cr'
   - '+.kemono.party'
   - '+.kemono.su'
   - '+.kendal.ac.uk'
@@ -15577,6 +15579,7 @@ payload:
   - '+.mypearsonenglish.ch'
   - '+.mypearsonshop.com.mx'
   - '+.mypearsonshop.mx'
+  - '+.mypikpak.net'
   - '+.myplace.ac.uk'
   - '+.mypornads.com'
   - '+.mypornadviser.com'
@@ -15733,7 +15736,6 @@ payload:
   - '+.naughtysophie.com'
   - '+.naughtytugs.com'
   - '+.naughtywomenpics.com'
-  - '+.naver.com'
   - '+.naver.me'
   - '+.naver.net'
   - '+.naverads.com'
@@ -26604,6 +26606,7 @@ payload:
   - '+.delicious.com'
   - '+.democrats.org'
   - '+.demosisto.hk'
+  - '+.deno.dev'
   - '+.depositphotos.com'
   - '+.desc.se'
   - '+.desipro.de'
@@ -27281,6 +27284,7 @@ payload:
   - '+.furhhdl.org'
   - '+.furinkan.com'
   - '+.furl.net'
+  - '+.furrybar.com'
   - '+.futurechinaforum.org'
   - '+.futuremessage.org'
   - '+.fux.com'
@@ -28939,6 +28943,7 @@ payload:
   - '+.nationsonline.org'
   - '+.nationwide.com'
   - '+.naughtyamerica.com'
+  - '+.naver.com'
   - '+.naver.jp'
   - '+.navy.mil'
   - '+.naweeklytimes.com'
@@ -30901,6 +30906,7 @@ payload:
   - '+.udn.com.tw'
   - '+.udnbkk.com'
   - '+.udndata.com'
+  - '+.udomain.hk'
   - '+.uforadio.com.tw'
   - '+.ufreevpn.com'
   - '+.ugo.com'

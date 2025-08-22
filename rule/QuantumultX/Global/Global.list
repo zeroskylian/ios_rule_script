@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-18 02:07:51
+# UPDATED: 2025-08-22 02:08:19
 # HOST: 616
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 31629
+# HOST-SUFFIX: 31635
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 32443
+# TOTAL: 32449
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -9968,6 +9968,7 @@ HOST-SUFFIX,ggjav.com,Global
 HOST-SUFFIX,ggoogle.com,Global
 HOST-SUFFIX,ggpds.com,Global
 HOST-SUFFIX,ggsrv.com,Global
+HOST-SUFFIX,gh.io,Global
 HOST-SUFFIX,ghbi.ir,Global
 HOST-SUFFIX,ghettotube.com,Global
 HOST-SUFFIX,ghil.ac.uk,Global
@@ -13129,6 +13130,7 @@ HOST-SUFFIX,keepmovingwithmovefree.com,Global
 HOST-SUFFIX,keepyourcad.com,Global
 HOST-SUFFIX,keiba.net,Global
 HOST-SUFFIX,keighleycollege.ac.uk,Global
+HOST-SUFFIX,kemono.cr,Global
 HOST-SUFFIX,kemono.party,Global
 HOST-SUFFIX,kemono.su,Global
 HOST-SUFFIX,kendal.ac.uk,Global
@@ -15739,6 +15741,7 @@ HOST-SUFFIX,mypearson.com,Global
 HOST-SUFFIX,mypearsonenglish.ch,Global
 HOST-SUFFIX,mypearsonshop.com.mx,Global
 HOST-SUFFIX,mypearsonshop.mx,Global
+HOST-SUFFIX,mypikpak.net,Global
 HOST-SUFFIX,myplace.ac.uk,Global
 HOST-SUFFIX,mypornads.com,Global
 HOST-SUFFIX,mypornadviser.com,Global
@@ -15895,7 +15898,6 @@ HOST-SUFFIX,naughtymag.com,Global
 HOST-SUFFIX,naughtysophie.com,Global
 HOST-SUFFIX,naughtytugs.com,Global
 HOST-SUFFIX,naughtywomenpics.com,Global
-HOST-SUFFIX,naver.com,Global
 HOST-SUFFIX,naver.me,Global
 HOST-SUFFIX,naver.net,Global
 HOST-SUFFIX,naverads.com,Global
@@ -26774,6 +26776,7 @@ HOST-SUFFIX,delcamp.net,Global
 HOST-SUFFIX,delicious.com,Global
 HOST-SUFFIX,democrats.org,Global
 HOST-SUFFIX,demosisto.hk,Global
+HOST-SUFFIX,deno.dev,Global
 HOST-SUFFIX,depositphotos.com,Global
 HOST-SUFFIX,desc.se,Global
 HOST-SUFFIX,design.google,Global
@@ -27480,6 +27483,7 @@ HOST-SUFFIX,furbo.org,Global
 HOST-SUFFIX,furhhdl.org,Global
 HOST-SUFFIX,furinkan.com,Global
 HOST-SUFFIX,furl.net,Global
+HOST-SUFFIX,furrybar.com,Global
 HOST-SUFFIX,futurechinaforum.org,Global
 HOST-SUFFIX,futuremessage.org,Global
 HOST-SUFFIX,fux.com,Global
@@ -29414,6 +29418,7 @@ HOST-SUFFIX,nationalreview.com,Global
 HOST-SUFFIX,nationsonline.org,Global
 HOST-SUFFIX,nationwide.com,Global
 HOST-SUFFIX,naughtyamerica.com,Global
+HOST-SUFFIX,naver.com,Global
 HOST-SUFFIX,naver.jp,Global
 HOST-SUFFIX,navy.mil,Global
 HOST-SUFFIX,naweeklytimes.com,Global
@@ -31440,6 +31445,7 @@ HOST-SUFFIX,udn.com,Global
 HOST-SUFFIX,udn.com.tw,Global
 HOST-SUFFIX,udnbkk.com,Global
 HOST-SUFFIX,udndata.com,Global
+HOST-SUFFIX,udomain.hk,Global
 HOST-SUFFIX,uforadio.com.tw,Global
 HOST-SUFFIX,ufreevpn.com,Global
 HOST-SUFFIX,ugo.com,Global

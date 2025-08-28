@@ -1,20 +1,20 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-24 02:08:55
-# DOMAIN: 256
+# UPDATED: 2025-08-28 02:09:48
+# DOMAIN: 278
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 118315
+# DOMAIN-SUFFIX: 118314
 # IP-ASN: 1
-# IP-CIDR: 8066
-# IP-CIDR6: 12027
+# IP-CIDR: 8067
+# IP-CIDR6: 12031
 # PROCESS-NAME: 12
 # USER-AGENT: 65
-# TOTAL: 138755
-DOMAIN-SUFFIX,alipay
+# TOTAL: 138781
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
@@ -3972,6 +3972,7 @@ IP-CIDR,161.248.92.0/23,no-resolve
 IP-CIDR,161.49.5.7/32,no-resolve
 IP-CIDR,162.105.0.0/16,no-resolve
 IP-CIDR,162.14.0.0/16,no-resolve
+IP-CIDR,162.141.4.0/24,no-resolve
 IP-CIDR,162.62.240.0/23,no-resolve
 IP-CIDR,162.62.242.0/24,no-resolve
 IP-CIDR,163.0.0.0/16,no-resolve
@@ -19942,6 +19943,7 @@ IP-CIDR6,2a0f:7803:ff02:8000::/50,no-resolve
 IP-CIDR6,2a0f:7803:ff10:2000::/51,no-resolve
 IP-CIDR6,2a0f:7804:f650::/44,no-resolve
 IP-CIDR6,2a0f:7804:f9f0::/44,no-resolve
+IP-CIDR6,2a0f:7807::/32,no-resolve
 IP-CIDR6,2a0f:7d07::/32,no-resolve
 IP-CIDR6,2a0f:85c1:81b:f280::/60,no-resolve
 IP-CIDR6,2a0f:85c1:ba5::/48,no-resolve
@@ -20063,6 +20065,7 @@ IP-CIDR6,2a14:67c1:b105::/48,no-resolve
 IP-CIDR6,2a14:67c1:b107::/48,no-resolve
 IP-CIDR6,2a14:67c1:b130::/46,no-resolve
 IP-CIDR6,2a14:67c1:b134::/47,no-resolve
+IP-CIDR6,2a14:67c1:b140::/48,no-resolve
 IP-CIDR6,2a14:67c1:b4a1::/48,no-resolve
 IP-CIDR6,2a14:67c1:b4a2::/48,no-resolve
 IP-CIDR6,2a14:67c1:b4a6::/48,no-resolve
@@ -20076,6 +20079,7 @@ IP-CIDR6,2a14:67c1:b563::/48,no-resolve
 IP-CIDR6,2a14:67c1:b566::/48,no-resolve
 IP-CIDR6,2a14:67c1:b581::/48,no-resolve
 IP-CIDR6,2a14:67c1:b582::/48,no-resolve
+IP-CIDR6,2a14:67c1:b586::/48,no-resolve
 IP-CIDR6,2a14:67c1:b588::/47,no-resolve
 IP-CIDR6,2a14:67c1:b590::/48,no-resolve
 IP-CIDR6,2a14:67c1:b599::/48,no-resolve
@@ -20116,6 +20120,7 @@ IP-CIDR6,2a14:7581:bc2::/48,no-resolve
 IP-CIDR6,2a14:7581:bcd::/48,no-resolve
 IP-CIDR6,2a14:7581:bff::/48,no-resolve
 IP-CIDR6,2a14:7581:ffb::/48,no-resolve
+IP-CIDR6,2a14:7583:f201::/48,no-resolve
 IP-CIDR6,2a14:7583:f203::/48,no-resolve
 IP-CIDR6,2a14:7584::/36,no-resolve
 IP-CIDR6,2a14:7c0:4a01::/48,no-resolve
@@ -20162,6 +20167,7 @@ IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
 IP-ASN,132203,no-resolve
+USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -20178,7 +20184,6 @@ USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
@@ -20187,7 +20192,6 @@ USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
-USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
 USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
@@ -20198,29 +20202,30 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
-USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MGTV*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,MOO*
+USER-AGENT,MiguVideo*
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,Youku*
 USER-AGENT,bilibili*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MOO*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
+USER-AGENT,MGTV*
 USER-AGENT,baiduyinyue
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
+USER-AGENT,Youku*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QYPlayer*

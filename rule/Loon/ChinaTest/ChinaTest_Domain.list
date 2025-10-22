@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-18 02:08:51
-# DOMAIN: 122
+# UPDATED: 2025-10-22 02:09:29
+# DOMAIN: 115
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 116623
+# DOMAIN-SUFFIX: 116660
 # IP-CIDR: 11
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 116800
+# TOTAL: 116830
 .0.zone
 .00.net
 .000.link
@@ -1377,6 +1377,7 @@
 .123242.com
 .123245.com
 .123254.com
+.123294.com
 .123295.com
 .123326.com
 .12333.com
@@ -8328,6 +8329,7 @@
 .9000wy.com
 .900112.com
 .900501.xyz
+.900cha.com
 .900php.com
 .900ppt.com
 .900yi.com
@@ -9628,6 +9630,7 @@
 .accuramed.com
 .accurate-china.com
 .accurate520.com
+.accxiaoheihe.com
 .acdianyuan.com
 .ace-info.com
 .ace-pow.com
@@ -12218,6 +12221,7 @@
 .apcups.org
 .apcupse.com
 .apdcdn.com
+.apdcdn.net
 .ape8.com
 .apearth.com
 .apecome.com
@@ -13032,6 +13036,7 @@
 .autohenan.com
 .autoho.com
 .autohome.com
+.autohome.tel
 .autohr.org
 .autohunan.com
 .autoij.com
@@ -14668,6 +14673,7 @@
 .bdkyr.com
 .bdlcqjw.com
 .bdmozon.com
+.bdmyandex.com
 .bdns-api-test.net
 .bdns-boe.com
 .bdns-boe.net
@@ -18112,6 +18118,7 @@
 .bytetstatic.net
 .byteug.com
 .bytevalk.com
+.bytevcloudapi.com
 .bytevcloudvod.com
 .bytevdn-boe.com
 .bytevdn.com
@@ -20567,6 +20574,7 @@
 .chayu.com
 .chayueshebao.com
 .chayuqing.com
+.chaz.fun
 .chazhengla.com
 .chazidian.com
 .chaziyu.com
@@ -22384,6 +22392,7 @@
 .chomixbiotech.com
 .chong-wu.net
 .chong4.net
+.chongbuluo.com
 .chongchi.com
 .chongchuang.biz
 .chongdawang.com
@@ -22607,6 +22616,7 @@
 .chuiyue.com
 .chujian.xyz
 .chujing-electric.com
+.chujingapp.com
 .chujuan.net
 .chujunkeji.com
 .chukong-inc.com
@@ -25195,6 +25205,7 @@
 .coyotebio-lab.com
 .coyuk.com
 .coyuns.net
+.coze.site
 .cozonenet.com
 .cp-keji.com
 .cp0556.com
@@ -29646,6 +29657,7 @@
 .djgy.com
 .djhxn.com
 .dji.com
+.dji.ink
 .dji.net
 .djiang.net
 .djiavip.com
@@ -40376,6 +40388,7 @@
 .guazhuan.com
 .guazi-apps.com
 .guazi.com
+.guazi.net
 .guazipai.com
 .guazistatic.com
 .guazixs.com
@@ -48411,6 +48424,7 @@
 .hspharm.com
 .hspm.net
 .hspress.net
+.hsqh.net
 .hsqhfunds.com
 .hsqhospital.com
 .hsqjfw.com
@@ -51032,7 +51046,9 @@
 .ibbwhat.com
 .ibcet.org
 .ibczy.com
+.ibdxiguaimg.com
 .ibdxigualive.com
+.ibdxiguastatic.com
 .ibdxiguavod.com
 .ibeidiao.com
 .ibeifeng.com
@@ -52258,6 +52274,8 @@
 .imcec.org
 .imchinese.net
 .imcn.me
+.imcome.net
+.imcoming.com
 .imconlinereg.com
 .imd-marketing.com
 .imdadui.com
@@ -53012,6 +53030,7 @@
 .ips.com
 .ips8.com
 .ipsebe.com
+.ipshu.com
 .ipshudi.com
 .ipsmap.com
 .ipssh.net
@@ -53307,6 +53326,7 @@
 .ist-zl.com
 .istartsurf.com
 .istcw.com
+.istoreos.com
 .istpei.com
 .istrongcloud.com
 .istrongcloud.net
@@ -58495,6 +58515,7 @@
 .jxpdf.com
 .jxphone.com
 .jxphyz.com
+.jxpp.com
 .jxpta.com
 .jxqcw.com
 .jxqtkj.com
@@ -65556,6 +65577,8 @@
 .lyd-china.com
 .lyd6688.com
 .lydaas.com
+.lydaas.net
+.lydass.net
 .lydezx.net
 .lydfyy.com
 .lydhb888.com
@@ -66531,6 +66554,7 @@
 .maotuying.com
 .maowotao.com
 .maoxia007.com
+.maoxiangai.com
 .maoxinhang.com
 .maoxinquan.net
 .maoxiongtv.com
@@ -66872,6 +66896,7 @@
 .mc91.com
 .mc9y.net
 .mcake.com
+.mcbaas.work
 .mcbang.com
 .mcbao.com
 .mcbbs.co
@@ -66887,6 +66912,7 @@
 .mccshhospital.com
 .mcd.cc
 .mcdchina.net
+.mcdemo.show
 .mcdsusan.com
 .mcdvisa.com
 .mce.msi.com
@@ -69638,6 +69664,7 @@
 .mw1950.com
 .mwadx.com
 .mwave.tech
+.mwcdns.com
 .mwclg.com
 .mwcloudcdn.com
 .mwcloudcdn.info
@@ -69972,6 +69999,7 @@
 .myp17.com
 .myp2pch.net
 .mypaas.com
+.myparallelstory.com
 .mypcrun.com
 .mypethome.com
 .mypharma.com
@@ -70926,6 +70954,7 @@
 .networkesl.com
 .networklo.com
 .netzonesoft.com
+.netzz.net
 .neu-reality.com
 .neucrack.com
 .neuedu.com
@@ -75624,6 +75653,7 @@
 .pixcakes.com
 .pixe44lrifted.com
 .pixelauth.com
+.pixeldance.com
 .pixelgame.net
 .pixepf.sbs
 .pixiaojiang.com
@@ -91280,6 +91310,7 @@
 .tctran.com
 .tctz.com
 .tcvywoh.com
+.tcwqqdy.guru
 .tcwt.net
 .tcxmt.com
 .tcxw.cc
@@ -93488,6 +93519,7 @@
 .towavephone.com
 .towelltech.com
 .tower.im
+.tower0788.com
 .towinor.com
 .towmfs.com
 .towmy.com
@@ -93610,6 +93642,7 @@
 .tradow.com
 .tradplus.com
 .tradplusad.com
+.trae.guru
 .trafstore.com
 .traineexp.com
 .trainingipv6.com
@@ -100506,6 +100539,7 @@
 .wsgeogen.com
 .wsgjj.com
 .wsgjp.com
+.wsglb.com
 .wsglb.net
 .wsglb0.com
 .wsglb0.info
@@ -101975,6 +102009,7 @@
 .xdpjump.com
 .xdplt.com
 .xdpvp.com
+.xdqtech.com
 .xdrcftv.com
 .xdressy.com
 .xdrig.com
@@ -101985,6 +102020,7 @@
 .xdsyzzs.com
 .xdter.com
 .xdtev.com
+.xdtool.com
 .xdtos.com
 .xduim.com
 .xduoo.com
@@ -115750,6 +115786,7 @@
 .ztmao.com
 .ztmvip.com
 .ztn.com
+.ztna-dingtalk.com
 .ztnews.net
 .ztno.com
 .ztny188.com
@@ -116654,8 +116691,6 @@ images-cn.ssl-images-amazon.com
 ip.istatmenus.app
 menu-static.gog-statics.com
 monitoring.qpdp1.net
-msgr.dlservice.microsoft.com
-msgruser.dlservice.microsoft.com
 ntservicepack.microsoft.com
 o.pki.goog
 ocsp.pki.goog
@@ -116667,7 +116702,6 @@ prod.databe.floonet.goog
 productcard.gog-statics.com
 qagpublic.qatp1.net
 qgadmin.qcpp1.net
-qh.dlservice.microsoft.com
 qualysapi.qatp1.net
 qualysguard.qpdp1.net
 recaptcha-cn.net
@@ -116683,8 +116717,6 @@ scanservice1.qcpp1.net
 scene7-cdn.dell.com
 service.urchin.com
 si.cdn.dell.com
-silverlight.dlservice.microsoft.com
-slupdate.dlservice.microsoft.com
 sm.dell.com
 smart.uhdnow.com
 sms.imagetasks.com
@@ -116701,12 +116733,10 @@ test.gbugs-qa.chromium.org
 time.xtracloud.net
 tx.lilyemby.com
 uplaypc-s-ubisoft.cdn.ubi.com
-wl.dlservice.microsoft.com
 www-csb.dell.com
 www.destinationurl.com
 www.pxcc.com
 www.recaptcha.net
 www.yxssp.com
 www4-static.gog-statics.com
-xb.dlservice.microsoft.com
 xn--flw351e.com

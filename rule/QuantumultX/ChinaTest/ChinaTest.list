@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-30 02:09:17
+# UPDATED: 2025-11-04 02:09:31
 # HOST: 116
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 116431
@@ -54307,7 +54307,6 @@ HOST-SUFFIX,imlianai.com,ChinaTest
 HOST-SUFFIX,imliuyi.com,ChinaTest
 HOST-SUFFIX,imlizhi.com,ChinaTest
 HOST-SUFFIX,immeee.com,ChinaTest
-HOST-SUFFIX,immersivetranslate.com,ChinaTest
 HOST-SUFFIX,immfast.com,ChinaTest
 HOST-SUFFIX,immi520.com,ChinaTest
 HOST-SUFFIX,immiexpo.com,ChinaTest
@@ -113753,6 +113752,7 @@ HOST-SUFFIX,zhuanhuamao.com,ChinaTest
 HOST-SUFFIX,zhuanhuanqi.com,ChinaTest
 HOST-SUFFIX,zhuanhuanqi.net,ChinaTest
 HOST-SUFFIX,zhuaniao.com,ChinaTest
+HOST-SUFFIX,zhuaninc.com,ChinaTest
 HOST-SUFFIX,zhuankeapp.com,ChinaTest
 HOST-SUFFIX,zhuankebang.com,ChinaTest
 HOST-SUFFIX,zhuankezu.com,ChinaTest

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-12 02:08:07
+# UPDATED: 2025-11-16 02:08:10
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32003
+# DOMAIN-SUFFIX: 32067
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32270
+# TOTAL: 32334
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -999,6 +999,8 @@ login.microsoftonline.com
 +.afappyending.com
 +.afewmomentswith.com
 +.affect3dstore.com
++.affinity.api.serifservices.com
++.affinity.studio
 +.affirmtrust.com
 +.afi.ac.uk
 +.afkv28.com
@@ -2623,6 +2625,7 @@ login.microsoftonline.com
 +.awstrust.com
 +.awwcn.buzz
 +.awwcn.xyz
++.awxcdn.com
 +.axbdoll.com.tw
 +.ayabank.com
 +.aylesbury.ac.uk
@@ -3341,6 +3344,7 @@ login.microsoftonline.com
 +.bfmat.ac.uk
 +.bftv.ac.uk
 +.bgc.ac.uk
++.bgicdn.com
 +.bgm.tv
 +.bgov.com
 +.bgr.in
@@ -5227,7 +5231,6 @@ login.microsoftonline.com
 +.charticulator.com
 +.chase.ac.uk
 +.chasestudy.ac.uk
-+.chat.com
 +.chatango.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
@@ -7977,6 +7980,7 @@ login.microsoftonline.com
 +.enmat.ac.uk
 +.enorf.ac.uk
 +.enos.ac.uk
++.enpass.io
 +.enpirion.com
 +.ensa.ac.uk
 +.ensemble.ac.uk
@@ -10288,6 +10292,7 @@ login.microsoftonline.com
 +.googleblog.com
 +.googlebot.com
 +.googlecapital.com
++.googlecensorship.org
 +.googlecert.net
 +.googlechinawebmaster.com
 +.googlecode.com
@@ -13233,7 +13238,40 @@ login.microsoftonline.com
 +.karlajames.com
 +.karupsha.com
 +.karupspc.com
++.kaspersky.be
++.kaspersky.ca
++.kaspersky.co.in
++.kaspersky.co.jp
++.kaspersky.co.kr
++.kaspersky.co.th
++.kaspersky.co.uk
++.kaspersky.co.za
 +.kaspersky.com
++.kaspersky.com.au
++.kaspersky.com.br
++.kaspersky.com.hk
++.kaspersky.com.pl
++.kaspersky.com.tr
++.kaspersky.com.tw
++.kaspersky.com.vn
++.kaspersky.cz
++.kaspersky.de
++.kaspersky.dk
++.kaspersky.dz
++.kaspersky.es
++.kaspersky.fi
++.kaspersky.fr
++.kaspersky.gr
++.kaspersky.it
++.kaspersky.kz
++.kaspersky.ma
++.kaspersky.my
++.kaspersky.nl
++.kaspersky.pt
++.kaspersky.ro
++.kaspersky.rs
++.kaspersky.ru
++.kaspersky.se
 +.kastatic.org
 +.katestube.com
 +.kavkazr.com
@@ -13259,6 +13297,9 @@ login.microsoftonline.com
 +.kedst.ac.uk
 +.keele.ac.uk
 +.keemail.me
++.keepass.info
++.keeper.io
++.keepersecurity.com
 +.keepmovingwithmovefree.com
 +.keepyourcad.com
 +.keiba.net
@@ -13547,6 +13588,8 @@ login.microsoftonline.com
 +.largeporntube.com
 +.lasersawapp.com
 +.last.fm
++.lastpass.com
++.lastpass.eu
 +.lasvegasbmw.com
 +.latampartneruniversity.com
 +.latamvmwareforum.com
@@ -13849,7 +13892,6 @@ login.microsoftonline.com
 +.linotype.com
 +.linseysworld.com
 +.linst.ac.uk
-+.linux.do
 +.linux.org
 +.linuxfoundation.org
 +.linuxfromscratch.org
@@ -14091,6 +14133,7 @@ login.microsoftonline.com
 +.lp99.pw
 +.lpc.ac.uk
 +.lpmde.ac.uk
++.lputil.com
 +.lqh0bon3.xyz
 +.lqpjw.cyou
 +.lrfdsoftware.com
@@ -16185,6 +16228,7 @@ login.microsoftonline.com
 +.neodaas.ac.uk
 +.neonatalsociety.ac.uk
 +.neotokyo.supertop-100.com
++.neovim.io
 +.neow.in
 +.nepusoku.com
 +.nerap.ac.uk
@@ -19448,6 +19492,7 @@ login.microsoftonline.com
 +.road-crew.com
 +.roblox.qq.com
 +.robobat.com
++.roboform.com
 +.roborecall.com
 +.robotoffice.com
 +.rochdalesfc.ac.uk
@@ -21404,6 +21449,7 @@ login.microsoftonline.com
 +.strode-college.ac.uk
 +.strodes.ac.uk
 +.strodeslanguages.ac.uk
++.strongboxsafe.com
 +.stroud.ac.uk
 +.stroudcol.ac.uk
 +.stroudcollege.ac.uk
@@ -25568,6 +25614,7 @@ login.microsoftonline.com
 +.zeit.co
 +.zeit.sh
 +.zeitworld.com
++.zen-browser.app
 +.zen8ok.xyz
 +.zencdn.net
 +.zencoder.com
@@ -26019,6 +26066,7 @@ login.microsoftonline.com
 +.aolnews.com
 +.aomedia.org
 +.aomiwang.com
++.aoxvpn.com
 +.ap.org
 +.apache.org
 +.apartmentratings.com
@@ -26247,6 +26295,7 @@ login.microsoftonline.com
 +.bet365.com
 +.betaclouds.net
 +.betfair.com
++.bettergpt.chat
 +.betterhash.net
 +.betternet.co
 +.bettervpn.com
@@ -26506,6 +26555,7 @@ login.microsoftonline.com
 +.cams.org.sg
 +.canadameet.com
 +.cantonese.asia
++.canva.com
 +.canyu.org
 +.cao.im
 +.caobian.info
@@ -26548,6 +26598,7 @@ login.microsoftonline.com
 +.ccdtr.org
 +.ccfd.org.tw
 +.cchere.com
++.cchostvps.xyz
 +.ccim.org
 +.cclife.ca
 +.cclife.org
@@ -26610,7 +26661,9 @@ login.microsoftonline.com
 +.chaos.social
 +.chapm25.com
 +.character.ai
++.chat.com
 +.chatnook.com
++.chatpdf.com
 +.chaturbate.com
 +.checkgfw.com
 +.chengmingmag.com
@@ -26965,6 +27018,7 @@ login.microsoftonline.com
 +.daozhongxing.org
 +.darktech.org
 +.darktoy.net
++.darmau.co
 +.darpa.mil
 +.darrenliuwei.com
 +.dartlang.org
@@ -27536,6 +27590,7 @@ login.microsoftonline.com
 +.flitto.com
 +.flnet.org
 +.flog.tw
++.flowgpt.com
 +.flowhongkong.net
 +.flypool.org
 +.flyvpn.com
@@ -27555,6 +27610,7 @@ login.microsoftonline.com
 +.fooooo.com
 +.footwiball.com
 +.forbes.com
++.forefront.ai
 +.foreignaffairs.com
 +.foreignpolicy.com
 +.form.new
@@ -27942,6 +27998,7 @@ login.microsoftonline.com
 +.great-firewall.com
 +.great-roc.org
 +.greatfire.org
++.greatfirevpn.com
 +.greatfirewall.biz
 +.greatfirewallofchina.net
 +.greatfirewallofchina.org
@@ -28287,6 +28344,7 @@ login.microsoftonline.com
 +.hxwk.org
 +.hxwq.org
 +.hybrid-analysis.com
++.hyperbeam.com
 +.hyperrate.com
 +.hypothes.is
 +.hyread.com.tw
@@ -28807,6 +28865,7 @@ login.microsoftonline.com
 +.letou.com
 +.letscorp.net
 +.level-plus.net
++.lexica.art
 +.lflink.com
 +.lflinkup.com
 +.lflinkup.net
@@ -28852,6 +28911,7 @@ login.microsoftonline.com
 +.linkuswell.com
 +.linode.com
 +.linpie.com
++.linux.do
 +.linux.org.hk
 +.linuxtoy.org
 +.lionsroar.com
@@ -28888,6 +28948,7 @@ login.microsoftonline.com
 +.lkcn.net
 +.llnwd.net
 +.llss.me
++.lmarena.ai
 +.lmsys.org
 +.load.to
 +.lobsangwangyal.com
@@ -28923,6 +28984,7 @@ login.microsoftonline.com
 +.lsmradio.com
 +.lsmwebcast.com
 +.lsxszzg.com
++.lt.sntp.uk
 +.ltn.com.tw
 +.luckydesigner.space
 +.luckymobile.ca
@@ -30150,6 +30212,7 @@ login.microsoftonline.com
 +.releaseinternational.org
 +.religionnews.com
 +.religioustolerance.org
++.rentry.co
 +.renyurenquan.org
 +.resilio.com
 +.resistchina.org
@@ -30851,6 +30914,7 @@ login.microsoftonline.com
 +.tenzinpalmo.com
 +.terabox.com
 +.teraboxcdn.com
++.terobox.com
 +.tew.org
 +.textnow.com
 +.textnow.me

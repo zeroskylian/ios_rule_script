@@ -1,7 +1,7 @@
 # NAME: ChinaIPsBGP
 # AUTHOR: misakaio
 # REPO: https://github.com/misakaio/chnroutes2
-# UPDATED: 2025-11-18 02:09:49
+# UPDATED: 2025-11-22 02:09:29
 # IP-CIDR: 3935
 # TOTAL: 3935
 1.1.8.0/24

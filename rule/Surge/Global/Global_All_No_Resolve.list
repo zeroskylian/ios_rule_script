@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-18 02:08:25
+# UPDATED: 2025-11-22 02:08:08
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32122
+# DOMAIN-SUFFIX: 32131
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32435
+# TOTAL: 32444
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -316,6 +316,7 @@ DOMAIN-SUFFIX,21heise360dh.cc
 DOMAIN-SUFFIX,21hub.com
 DOMAIN-SUFFIX,21naturals.com
 DOMAIN-SUFFIX,21vv.cc
+DOMAIN-SUFFIX,22112211.xyz
 DOMAIN-SUFFIX,2371tom.com
 DOMAIN-SUFFIX,24hjav.com
 DOMAIN-SUFFIX,24porn.com
@@ -826,7 +827,6 @@ DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,adguard-mail.com
-DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,adguard-vpn.online
 DOMAIN-SUFFIX,adguard.app
 DOMAIN-SUFFIX,adguard.com
@@ -5621,7 +5621,6 @@ DOMAIN-SUFFIX,cloudflarepreview.com
 DOMAIN-SUFFIX,cloudflareregistrar.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflaressl.com
-DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudflaretest.com
@@ -10694,7 +10693,6 @@ DOMAIN-SUFFIX,hbogoasia.ph
 DOMAIN-SUFFIX,hbogoasia.sg
 DOMAIN-SUFFIX,hbogoasia.tw
 DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
-DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbox.jp
@@ -16796,7 +16794,9 @@ DOMAIN-SUFFIX,noc.ac.uk
 DOMAIN-SUFFIX,nochubank.or.jp
 DOMAIN-SUFFIX,nocn.ac.uk
 DOMAIN-SUFFIX,nocs.ac.uk
+DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,nodequality.com
 DOMAIN-SUFFIX,nodes.ac.uk
 DOMAIN-SUFFIX,nodesnoop.com
 DOMAIN-SUFFIX,nodesource.com
@@ -19697,7 +19697,6 @@ DOMAIN-SUFFIX,russell-group.ac.uk
 DOMAIN-SUFFIX,russellgroup.ac.uk
 DOMAIN-SUFFIX,russianrape.org
 DOMAIN-SUFFIX,rust-lang.org
-DOMAIN-SUFFIX,rustdesk.com
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,rutc.ac.uk
 DOMAIN-SUFFIX,rutherford.ac.uk
@@ -25957,6 +25956,7 @@ DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adcex.com
 DOMAIN-SUFFIX,addictedtocoffee.de
 DOMAIN-SUFFIX,adelaidebbs.com
+DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
@@ -25983,6 +25983,7 @@ DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
+DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
@@ -26871,6 +26872,7 @@ DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudgarage.jp
@@ -28143,6 +28145,7 @@ DOMAIN-SUFFIX,hautelookcdn.com
 DOMAIN-SUFFIX,have8.com
 DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,hclips.com
 DOMAIN-SUFFIX,hdlt.me
@@ -28937,6 +28940,7 @@ DOMAIN-SUFFIX,liaowangxizang.net
 DOMAIN-SUFFIX,liberal.org.hk
 DOMAIN-SUFFIX,libertysculpturepark.com
 DOMAIN-SUFFIX,libertytimes.com.tw
+DOMAIN-SUFFIX,library-access.sk
 DOMAIN-SUFFIX,libraryinformationtechnology.com
 DOMAIN-SUFFIX,libredd.it
 DOMAIN-SUFFIX,libsyn.com
@@ -29221,6 +29225,7 @@ DOMAIN-SUFFIX,middle-way.net
 DOMAIN-SUFFIX,mihk.hk
 DOMAIN-SUFFIX,mihr.com
 DOMAIN-SUFFIX,mihua.org
+DOMAIN-SUFFIX,mij.rip
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,mikesoltys.com
 DOMAIN-SUFFIX,mikocon.com
@@ -29275,7 +29280,9 @@ DOMAIN-SUFFIX,mixin.one
 DOMAIN-SUFFIX,mixpod.com
 DOMAIN-SUFFIX,mixx.com
 DOMAIN-SUFFIX,mizzmona.com
+DOMAIN-SUFFIX,mji.rip
 DOMAIN-SUFFIX,mjib.gov.tw
+DOMAIN-SUFFIX,mjj.rip
 DOMAIN-SUFFIX,mk5000.com
 DOMAIN-SUFFIX,mlc.ai
 DOMAIN-SUFFIX,mlcool.com
@@ -30342,6 +30349,7 @@ DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,runbtx.com
 DOMAIN-SUFFIX,rushbee.com
+DOMAIN-SUFFIX,rustdesk.com
 DOMAIN-SUFFIX,rusvpn.com
 DOMAIN-SUFFIX,ruten.com.tw
 DOMAIN-SUFFIX,rutracker.net
@@ -32015,6 +32023,7 @@ DOMAIN-SUFFIX,xmovies.com
 DOMAIN-SUFFIX,xn--11xs86f.icu
 DOMAIN-SUFFIX,xn--4gq171p.com
 DOMAIN-SUFFIX,xn--90wwvt03e.com
+DOMAIN-SUFFIX,xn--9iqy04a7fi01l.com
 DOMAIN-SUFFIX,xn--9pr62r24a.com
 DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com

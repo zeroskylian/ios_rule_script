@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-18 02:08:26
+# UPDATED: 2025-11-22 02:08:10
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32122
+# DOMAIN-SUFFIX: 32131
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32389
+# TOTAL: 32398
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -315,6 +315,7 @@ login.microsoftonline.com
 +.21hub.com
 +.21naturals.com
 +.21vv.cc
++.22112211.xyz
 +.2371tom.com
 +.24hjav.com
 +.24porn.com
@@ -825,7 +826,6 @@ login.microsoftonline.com
 +.adguard-dns.com
 +.adguard-dns.io
 +.adguard-mail.com
-+.adguard-vpn.com
 +.adguard-vpn.online
 +.adguard.app
 +.adguard.com
@@ -5620,7 +5620,6 @@ login.microsoftonline.com
 +.cloudflareregistrar.com
 +.cloudflareresolve.com
 +.cloudflaressl.com
-+.cloudflarestatus.com
 +.cloudflarestorage.com
 +.cloudflarestream.com
 +.cloudflaretest.com
@@ -10693,7 +10692,6 @@ login.microsoftonline.com
 +.hbogoasia.sg
 +.hbogoasia.tw
 +.hbomax-images.warnermediacdn.com
-+.hbomax.com
 +.hbomaxcdn.com
 +.hbonow.com
 +.hbox.jp
@@ -16795,7 +16793,9 @@ login.microsoftonline.com
 +.nochubank.or.jp
 +.nocn.ac.uk
 +.nocs.ac.uk
++.nodeimage.com
 +.nodejs.org
++.nodequality.com
 +.nodes.ac.uk
 +.nodesnoop.com
 +.nodesource.com
@@ -19696,7 +19696,6 @@ login.microsoftonline.com
 +.russellgroup.ac.uk
 +.russianrape.org
 +.rust-lang.org
-+.rustdesk.com
 +.rustup.rs
 +.rutc.ac.uk
 +.rutherford.ac.uk
@@ -25956,6 +25955,7 @@ login.microsoftonline.com
 +.adcex.com
 +.addictedtocoffee.de
 +.adelaidebbs.com
++.adguard-vpn.com
 +.adguard.org
 +.adobe.com
 +.adobedtm.com
@@ -25982,6 +25982,7 @@ login.microsoftonline.com
 +.ahcdn.com
 +.ai-kan.net
 +.ai-wen.net
++.ai.dev
 +.aiosearch.com
 +.aiph.net
 +.airasia.com
@@ -26870,6 +26871,7 @@ login.microsoftonline.com
 +.cloudflare-dns.com
 +.cloudflare-ipfs.com
 +.cloudflare.com
++.cloudflarestatus.com
 +.cloudfront.net
 +.cloudfunctions.net
 +.cloudgarage.jp
@@ -28142,6 +28144,7 @@ login.microsoftonline.com
 +.have8.com
 +.hbg.com
 +.hbo.com
++.hbomax.com
 +.hcaptcha.com
 +.hclips.com
 +.hdlt.me
@@ -28936,6 +28939,7 @@ login.microsoftonline.com
 +.liberal.org.hk
 +.libertysculpturepark.com
 +.libertytimes.com.tw
++.library-access.sk
 +.libraryinformationtechnology.com
 +.libredd.it
 +.libsyn.com
@@ -29220,6 +29224,7 @@ login.microsoftonline.com
 +.mihk.hk
 +.mihr.com
 +.mihua.org
++.mij.rip
 +.mikanani.me
 +.mikesoltys.com
 +.mikocon.com
@@ -29274,7 +29279,9 @@ login.microsoftonline.com
 +.mixpod.com
 +.mixx.com
 +.mizzmona.com
++.mji.rip
 +.mjib.gov.tw
++.mjj.rip
 +.mk5000.com
 +.mlc.ai
 +.mlcool.com
@@ -30341,6 +30348,7 @@ login.microsoftonline.com
 +.rumble.com
 +.runbtx.com
 +.rushbee.com
++.rustdesk.com
 +.rusvpn.com
 +.ruten.com.tw
 +.rutracker.net
@@ -32014,6 +32022,7 @@ login.microsoftonline.com
 +.xn--11xs86f.icu
 +.xn--4gq171p.com
 +.xn--90wwvt03e.com
++.xn--9iqy04a7fi01l.com
 +.xn--9pr62r24a.com
 +.xn--czq75pvv1aj5c.org
 +.xn--i2ru8q2qg.com

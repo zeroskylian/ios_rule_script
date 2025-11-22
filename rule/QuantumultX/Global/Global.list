@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-18 02:08:46
+# UPDATED: 2025-11-22 02:08:29
 # HOST: 638
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32176
+# HOST-SUFFIX: 32185
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33012
+# TOTAL: 33021
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -838,6 +838,7 @@ HOST-SUFFIX,21heise360dh.cc,Global
 HOST-SUFFIX,21hub.com,Global
 HOST-SUFFIX,21naturals.com,Global
 HOST-SUFFIX,21vv.cc,Global
+HOST-SUFFIX,22112211.xyz,Global
 HOST-SUFFIX,2371tom.com,Global
 HOST-SUFFIX,24hjav.com,Global
 HOST-SUFFIX,24porn.com,Global
@@ -1345,7 +1346,6 @@ HOST-SUFFIX,adgoogle.net,Global
 HOST-SUFFIX,adguard-dns.com,Global
 HOST-SUFFIX,adguard-dns.io,Global
 HOST-SUFFIX,adguard-mail.com,Global
-HOST-SUFFIX,adguard-vpn.com,Global
 HOST-SUFFIX,adguard-vpn.online,Global
 HOST-SUFFIX,adguard.app,Global
 HOST-SUFFIX,adguard.com,Global
@@ -6067,7 +6067,6 @@ HOST-SUFFIX,cloudflarepreview.com,Global
 HOST-SUFFIX,cloudflareregistrar.com,Global
 HOST-SUFFIX,cloudflareresolve.com,Global
 HOST-SUFFIX,cloudflaressl.com,Global
-HOST-SUFFIX,cloudflarestatus.com,Global
 HOST-SUFFIX,cloudflarestorage.com,Global
 HOST-SUFFIX,cloudflarestream.com,Global
 HOST-SUFFIX,cloudflaretest.com,Global
@@ -10879,7 +10878,6 @@ HOST-SUFFIX,hbogoasia.ph,Global
 HOST-SUFFIX,hbogoasia.sg,Global
 HOST-SUFFIX,hbogoasia.tw,Global
 HOST-SUFFIX,hbomax-images.warnermediacdn.com,Global
-HOST-SUFFIX,hbomax.com,Global
 HOST-SUFFIX,hbomaxcdn.com,Global
 HOST-SUFFIX,hbonow.com,Global
 HOST-SUFFIX,hbox.jp,Global
@@ -16975,7 +16973,9 @@ HOST-SUFFIX,noc.ac.uk,Global
 HOST-SUFFIX,nochubank.or.jp,Global
 HOST-SUFFIX,nocn.ac.uk,Global
 HOST-SUFFIX,nocs.ac.uk,Global
+HOST-SUFFIX,nodeimage.com,Global
 HOST-SUFFIX,nodejs.org,Global
+HOST-SUFFIX,nodequality.com,Global
 HOST-SUFFIX,nodes.ac.uk,Global
 HOST-SUFFIX,nodesnoop.com,Global
 HOST-SUFFIX,nodesource.com,Global
@@ -19848,7 +19848,6 @@ HOST-SUFFIX,russell-group.ac.uk,Global
 HOST-SUFFIX,russellgroup.ac.uk,Global
 HOST-SUFFIX,russianrape.org,Global
 HOST-SUFFIX,rust-lang.org,Global
-HOST-SUFFIX,rustdesk.com,Global
 HOST-SUFFIX,rustup.rs,Global
 HOST-SUFFIX,rutc.ac.uk,Global
 HOST-SUFFIX,rutherford.ac.uk,Global
@@ -26065,6 +26064,7 @@ HOST-SUFFIX,adcex.com,Global
 HOST-SUFFIX,addictedtocoffee.de,Global
 HOST-SUFFIX,addyoutube.com,Global
 HOST-SUFFIX,adelaidebbs.com,Global
+HOST-SUFFIX,adguard-vpn.com,Global
 HOST-SUFFIX,adguard.org,Global
 HOST-SUFFIX,adobe.com,Global
 HOST-SUFFIX,adobedtm.com,Global
@@ -26092,6 +26092,7 @@ HOST-SUFFIX,agro.hk,Global
 HOST-SUFFIX,ahcdn.com,Global
 HOST-SUFFIX,ai-kan.net,Global
 HOST-SUFFIX,ai-wen.net,Global
+HOST-SUFFIX,ai.dev,Global
 HOST-SUFFIX,ai.google,Global
 HOST-SUFFIX,aiosearch.com,Global
 HOST-SUFFIX,aiph.net,Global
@@ -27055,6 +27056,7 @@ HOST-SUFFIX,cloudcone.com,Global
 HOST-SUFFIX,cloudflare-dns.com,Global
 HOST-SUFFIX,cloudflare-ipfs.com,Global
 HOST-SUFFIX,cloudflare.com,Global
+HOST-SUFFIX,cloudflarestatus.com,Global
 HOST-SUFFIX,cloudfront.net,Global
 HOST-SUFFIX,cloudfunctions.net,Global
 HOST-SUFFIX,cloudgarage.jp,Global
@@ -28629,6 +28631,7 @@ HOST-SUFFIX,hautelookcdn.com,Global
 HOST-SUFFIX,have8.com,Global
 HOST-SUFFIX,hbg.com,Global
 HOST-SUFFIX,hbo.com,Global
+HOST-SUFFIX,hbomax.com,Global
 HOST-SUFFIX,hcaptcha.com,Global
 HOST-SUFFIX,hclips.com,Global
 HOST-SUFFIX,hdlt.me,Global
@@ -29429,6 +29432,7 @@ HOST-SUFFIX,liaowangxizang.net,Global
 HOST-SUFFIX,liberal.org.hk,Global
 HOST-SUFFIX,libertysculpturepark.com,Global
 HOST-SUFFIX,libertytimes.com.tw,Global
+HOST-SUFFIX,library-access.sk,Global
 HOST-SUFFIX,libraryinformationtechnology.com,Global
 HOST-SUFFIX,libredd.it,Global
 HOST-SUFFIX,libsyn.com,Global
@@ -29714,6 +29718,7 @@ HOST-SUFFIX,middle-way.net,Global
 HOST-SUFFIX,mihk.hk,Global
 HOST-SUFFIX,mihr.com,Global
 HOST-SUFFIX,mihua.org,Global
+HOST-SUFFIX,mij.rip,Global
 HOST-SUFFIX,mikanani.me,Global
 HOST-SUFFIX,mikesoltys.com,Global
 HOST-SUFFIX,mikocon.com,Global
@@ -29768,7 +29773,9 @@ HOST-SUFFIX,mixin.one,Global
 HOST-SUFFIX,mixpod.com,Global
 HOST-SUFFIX,mixx.com,Global
 HOST-SUFFIX,mizzmona.com,Global
+HOST-SUFFIX,mji.rip,Global
 HOST-SUFFIX,mjib.gov.tw,Global
+HOST-SUFFIX,mjj.rip,Global
 HOST-SUFFIX,mk5000.com,Global
 HOST-SUFFIX,mlc.ai,Global
 HOST-SUFFIX,mlcool.com,Global
@@ -30867,6 +30874,7 @@ HOST-SUFFIX,rule34video.com,Global
 HOST-SUFFIX,rumble.com,Global
 HOST-SUFFIX,runbtx.com,Global
 HOST-SUFFIX,rushbee.com,Global
+HOST-SUFFIX,rustdesk.com,Global
 HOST-SUFFIX,rusvpn.com,Global
 HOST-SUFFIX,ruten.com.tw,Global
 HOST-SUFFIX,rutracker.net,Global
@@ -32581,6 +32589,7 @@ HOST-SUFFIX,xmovies.com,Global
 HOST-SUFFIX,xn--11xs86f.icu,Global
 HOST-SUFFIX,xn--4gq171p.com,Global
 HOST-SUFFIX,xn--90wwvt03e.com,Global
+HOST-SUFFIX,xn--9iqy04a7fi01l.com,Global
 HOST-SUFFIX,xn--9pr62r24a.com,Global
 HOST-SUFFIX,xn--czq75pvv1aj5c.org,Global
 HOST-SUFFIX,xn--i2ru8q2qg.com,Global

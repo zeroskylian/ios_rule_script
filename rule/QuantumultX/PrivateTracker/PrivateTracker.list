@@ -1,18 +1,16 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-01 02:09:22
-# HOST: 123
+# UPDATED: 2026-01-04 02:09:16
+# HOST: 122
 # HOST-KEYWORD: 4
 # HOST-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 254
+# TOTAL: 253
 HOST,1337.abcvg.info,PrivateTracker
 HOST,6ahddutb1ucc3cp.ru,PrivateTracker
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,PrivateTracker
-HOST,admin.52ywp.com,PrivateTracker
 HOST,anna.bt.bontal.net,PrivateTracker
-HOST,bandito.byterunner.io,PrivateTracker
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,PrivateTracker
 HOST,bt.bontal.net,PrivateTracker
 HOST,bt.okmp3.ru,PrivateTracker
@@ -34,9 +32,9 @@ HOST,leet-tracker.moe,PrivateTracker
 HOST,lucke.fenesisu.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
 HOST,node01.trackerstatus.live,PrivateTracker
+HOST,node02.torrentonline.cc,PrivateTracker
 HOST,ns575949.ip-51-222-82.net,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
-HOST,open-tracker.demonoid.ch,PrivateTracker
 HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.demonoid.ch,PrivateTracker
@@ -58,7 +56,6 @@ HOST,torrent.tracker.durukanbal.com,PrivateTracker
 HOST,torrentclub.online,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
 HOST,tr.abiir.top,PrivateTracker
-HOST,tr.abir.ga,PrivateTracker
 HOST,tr.highstar.shop,PrivateTracker
 HOST,tr.kxmp.cf,PrivateTracker
 HOST,tr.nyacat.pw,PrivateTracker
@@ -68,7 +65,6 @@ HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker.0x7c0.com,PrivateTracker
 HOST,tracker.1h.is,PrivateTracker
 HOST,tracker.23794.top,PrivateTracker
-HOST,tracker.alaskantf.com,PrivateTracker
 HOST,tracker.beeimg.com,PrivateTracker
 HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.bluefrog.pw,PrivateTracker
@@ -105,7 +101,9 @@ HOST,tracker.plx.im,PrivateTracker
 HOST,tracker.pmman.tech,PrivateTracker
 HOST,tracker.qu.ax,PrivateTracker
 HOST,tracker.renfei.net,PrivateTracker
+HOST,tracker.skynetcloud.site,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
+HOST,tracker.soshifanclub.com,PrivateTracker
 HOST,tracker.srv00.com,PrivateTracker
 HOST,tracker.t-1.org,PrivateTracker
 HOST,tracker.therarbg.to,PrivateTracker
@@ -119,6 +117,7 @@ HOST,tracker.uraniumhexafluori.de,PrivateTracker
 HOST,tracker.waaa.moe,PrivateTracker
 HOST,tracker.zhuqiy.com,PrivateTracker
 HOST,tracker1.520.jp,PrivateTracker
+HOST,tracker1.myporn.club,PrivateTracker
 HOST,tracker1.t-1.org,PrivateTracker
 HOST,tracker2.dler.org,PrivateTracker
 HOST,tracker2.itzmx.com,PrivateTracker

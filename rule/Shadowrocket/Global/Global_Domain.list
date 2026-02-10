@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-06 02:19:47
-# DOMAIN: 116
+# UPDATED: 2026-02-10 02:20:03
+# DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32612
+# DOMAIN-SUFFIX: 32646
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 32926
+# TOTAL: 32961
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -289,7 +289,10 @@
 .2gayboys.com
 .2k.com
 .2kcoretech.online
+.2kct.onl
 .2kgames.com
+.2ksports.com
+.2kweb.online
 .2lib.org
 .2lipstube.com
 .2mdn-cn.net
@@ -819,6 +822,7 @@
 .acer.com
 .aceros-de-hispania.com
 .aces.ac.uk
+.acesofthunder.net
 .acets.ac.uk
 .acevpn.com
 .acg.rip
@@ -863,6 +867,7 @@
 .activatelearning.ac.uk
 .activelearnprimary.co.uk
 .activelearnprimary.com.au
+.activematter.game
 .activeteachonline.com
 .activpn.com
 .actofunion.ac.uk
@@ -2539,6 +2544,7 @@
 .artstation.com
 .artstationmedia.com
 .artstor.org
+.artstorm.com
 .artsy.net
 .aru.ac.uk
 .arukas.io
@@ -4180,6 +4186,7 @@
 .bitstamp.net
 .bitstream.com
 .bitterwinter.org
+.bittorrent.com
 .bittrex.com
 .bitvise.com
 .bitwarden.com
@@ -6839,6 +6846,8 @@
 .codei.sh
 .codeish.co
 .codeish.io
+.codeium.com
+.codeiumdata.com
 .codeplex.com
 .coderabbit.ai
 .codeshare.io
@@ -7266,6 +7275,7 @@
 .crossfire.co.kr
 .crossfitfirestone.com
 .crossmediapanel.com
+.crossout.net
 .crossthewall.net
 .crossvpn.net
 .crosswalk-project.com
@@ -7281,6 +7291,7 @@
 .crr.com
 .crrev.com
 .crsbi.ac.uk
+.crsed.net
 .crsp.ac.uk
 .crtsgfb1.top
 .crucial.com
@@ -7358,6 +7369,7 @@
 .ctv.com.tw
 .ctwant.com
 .cubicmotion.com
+.cubicodyssey.game
 .cubo.ac.uk
 .cuc.ac.uk
 .cuckfilmswifefuck.com
@@ -9651,6 +9663,7 @@
 .enjoyasianporn.com
 .enjoyfuck.com
 .enlighten.org.tw
+.enlisted.net
 .enmat.ac.uk
 .enorf.ac.uk
 .enos.ac.uk
@@ -11689,6 +11702,8 @@
 .gaforum.org
 .gagaoolala.com
 .gaia.ac.uk
+.gaijin.net
+.gaijinent.com
 .gainsborough.ac.uk
 .gaito.xyz
 .galaxyappstore.com
@@ -12841,6 +12856,7 @@
 .grimsbytec.ac.uk
 .grindr.com
 .grok.com
+.grokipedia.com
 .grooby.com
 .groq.com
 .grotty-monday.com
@@ -13329,6 +13345,7 @@
 .helpster.de
 .helpuyghursnow.org
 .helpzhuling.org
+.hembed.com
 .hendon.ac.uk
 .henley-cov.ac.uk
 .henley.ac.uk
@@ -17987,6 +18004,8 @@
 .mantochichi.com
 .manufacturingedc.ac.uk
 .manurefetish.com
+.manus.im
+.manuscdn.com
 .manytoon.com
 .manyvids.com
 .manyvoices.news
@@ -19176,6 +19195,7 @@
 .modelsofauthority.ac.uk
 .modeltv.com
 .modernchinastudies.org
+.modernwarships.com
 .modip.ac.uk
 .modmedmicro.ac.uk
 .modmyi.com
@@ -23756,6 +23776,7 @@
 .radgametools.com
 .radian6.com
 .radicalparty.org
+.radiko-cf.com
 .radiko.jp
 .radio-canada.ca
 .radio-en-ligne.fr
@@ -24375,6 +24396,7 @@
 .rocksdb.org
 .rocksextube.com
 .rockstargames.com
+.rockstarnorth.com
 .roco.qq.com
 .rodbaston.ac.uk
 .roe.ac.uk
@@ -25776,6 +25798,7 @@
 .sketchbooknews.com
 .sketchbookpro.com
 .sketchfab.com
+.skills.sh
 .skillsbridge.ac.uk
 .skillscompetitionwales.ac.uk
 .skillsgroupuk.ac.uk
@@ -25897,6 +25920,7 @@
 .smartonerobotics.com
 .smartonesolutions.com.hk
 .smartonesolutions.hk
+.smartstream.ne.jp
 .smashed.xxx
 .smbc.co.jp
 .smbctb.co.jp
@@ -26519,6 +26543,7 @@
 .stanmore.ac.uk
 .stanstedairportcollege.ac.uk
 .star-brasil.com
+.star-conflict.com
 .star-latam.com
 .star.ac.uk
 .starbucks-stars.com
@@ -29270,6 +29295,7 @@
 .v.gd
 .v.roucdn
 .v2.help
+.v2.hysteria.network
 .v2ex.co
 .v2ex.com
 .v2fly.org
@@ -30369,6 +30395,7 @@
 .warr.ac.uk
 .warrington.ac.uk
 .warroom.org
+.warthunder.com
 .warwick.ac.uk
 .warwickequine.ac.uk
 .warwickhri.ac.uk
@@ -30764,6 +30791,7 @@
 .wikipedia.org
 .wikiporn.tv
 .wikiquote.org
+.wikis.tw
 .wikisexguide.com
 .wikisource.org
 .wikiunblocked.org
@@ -30805,6 +30833,8 @@
 .windowsuem.com
 .windscribe.com
 .windsor-forest.ac.uk
+.windsurf.build
+.windsurf.com
 .windy.com
 .wingamestore.com
 .wingy.site
@@ -31038,6 +31068,7 @@
 .wtbn.org
 .wtc.ac.uk
 .wtfpeople.com
+.wtmobile.com
 .wto.org
 .wton-acl.ac.uk
 .wton-adulteducation.ac.uk
@@ -32603,6 +32634,9 @@
 .zwtvusa.com
 .zynaima.com
 .zynamics.com
+.zynga.com
+.zyngaplayersupport.com
+.zyngapoker.com
 .zyns.com
 .zyxel.com
 .zyzc9.com
@@ -32734,5 +32768,6 @@ wetv.qq.com
 widgets.stripst.com
 wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
+yandex-pogoda.static-storage.net
 yangzhi.app
 ztedevices.com

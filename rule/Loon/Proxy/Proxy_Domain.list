@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-06 02:38:56
+# UPDATED: 2026-03-10 02:18:50
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6579
+# DOMAIN-SUFFIX: 6581
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6719
+# TOTAL: 6721
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -1515,6 +1515,7 @@
 .doujincafe.com
 .dowei.org
 .dowjones.com
+.download.dappcdn.com
 .dphk.org
 .dpool.top
 .dpp.org.tw
@@ -4820,6 +4821,7 @@
 .shipcamouflage.com
 .shireyishunjian.com
 .shitaotv.org
+.shitjournal.org
 .shixiao.org
 .shizhao.org
 .shkspr.mobi

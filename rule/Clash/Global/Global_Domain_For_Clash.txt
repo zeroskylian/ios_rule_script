@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-24 02:23:21
+# UPDATED: 2026-05-28 02:48:14
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34031
+# DOMAIN-SUFFIX: 34034
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34308
+# TOTAL: 34311
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -7883,6 +7883,7 @@ login.microsoftonline.com
 +.e-tugra.com
 +.e3an.ac.uk
 +.e5.sk
++.e53w.com
 +.ea-anz-press.com
 +.ea.com
 +.eaaccess.com
@@ -16001,6 +16002,7 @@ login.microsoftonline.com
 +.midentsolutions.com
 +.midfife.ac.uk
 +.midhurst.ac.uk
++.midjourney.com
 +.midkent.ac.uk
 +.midlands3cities.ac.uk
 +.midlands4cities.ac.uk
@@ -16646,7 +16648,6 @@ login.microsoftonline.com
 +.moxing.news
 +.moystoys.com
 +.mozgcp.net
-+.mozilla.ai
 +.mozilla.com
 +.mozilla.community
 +.mozilla.net
@@ -20103,6 +20104,7 @@ login.microsoftonline.com
 +.qbmengmei6.mom
 +.qbsc.ac.uk
 +.qckprn.com
++.qcmod.xyz
 +.qcomgeo2.com
 +.qctconnect.com
 +.qdiehzz7.me
@@ -31199,6 +31201,7 @@ login.microsoftonline.com
 +.movements.org
 +.moves-export.com
 +.moviefap.com
++.mozilla.ai
 +.mozilla.org
 +.moztw.org
 +.mp3buscador.com

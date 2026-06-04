@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-01 02:26:45
+# UPDATED: 2026-06-04 03:19:46
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34072
+# DOMAIN-SUFFIX: 34077
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34395
+# TOTAL: 34400
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -10362,6 +10362,7 @@ DOMAIN-SUFFIX,getfiddler.com
 DOMAIN-SUFFIX,getfoxyoutside.org
 DOMAIN-SUFFIX,getiton.com
 DOMAIN-SUFFIX,getnews.jp
+DOMAIN-SUFFIX,getpaint.net
 DOMAIN-SUFFIX,getpocket.com
 DOMAIN-SUFFIX,getporn.tv
 DOMAIN-SUFFIX,getprintersupports.com
@@ -16249,7 +16250,6 @@ DOMAIN-SUFFIX,minilondon.co
 DOMAIN-SUFFIX,minim.ac.uk
 DOMAIN-SUFFIX,minimarkham.ca
 DOMAIN-SUFFIX,minimarkham.com
-DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,minimoncton.ca
 DOMAIN-SUFFIX,minimoncton.com
 DOMAIN-SUFFIX,minimontrealcentre.ca
@@ -18748,6 +18748,7 @@ DOMAIN-SUFFIX,paily.net
 DOMAIN-SUFFIX,paily.org
 DOMAIN-SUFFIX,painfulpussytortures.com
 DOMAIN-SUFFIX,painnovel.com
+DOMAIN-SUFFIX,paint.net
 DOMAIN-SUFFIX,paipal.com
 DOMAIN-SUFFIX,paipancon.com
 DOMAIN-SUFFIX,paisapay.cc
@@ -23850,6 +23851,7 @@ DOMAIN-SUFFIX,tomibank.co.jp
 DOMAIN-SUFFIX,tomovie.net
 DOMAIN-SUFFIX,tomsguide.com
 DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,toncenter.com
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,tonicmovies.com
 DOMAIN-SUFFIX,toolforge.org
@@ -26421,8 +26423,11 @@ DOMAIN-SUFFIX,xhamster19.com
 DOMAIN-SUFFIX,xhamster2.com
 DOMAIN-SUFFIX,xhamster3.com
 DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,xhnews.live
 DOMAIN-SUFFIX,xhot.pro
+DOMAIN-SUFFIX,xhpingcdn.com
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,xhreal5.com
 DOMAIN-SUFFIX,xhub.tv
 DOMAIN-SUFFIX,xiangrikui-app.com
 DOMAIN-SUFFIX,xianir.xyz
